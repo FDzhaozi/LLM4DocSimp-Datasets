@@ -1,0 +1,99 @@
+[
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "1966年秋季，肯·雅克每周日举办开放式电影展，每周展示一位电影人的作品。他是千禧年的第一任执行理事，也是先锋电影导演。",
+        "original": "1966年秋季，千禧年的第一任执行理事、先锋电影导演肯·雅克(人名)每周日开始举办开放式电影展(摄影作品展览)，每周展示一位电影人的作品。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "个人电影系列分为春、秋、冬三个阶段，展示了来自不同国家的先锋派和实验派电影。",
+        "original": "一年中分为春、秋、冬三个阶段的个人电影系列，为观众展示了来自不同国家的先锋派和实验派电影。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "他解释了‘个人电影’的命名原因，即我们作品风格独特，自由诠释了多种形式、主题和意象。",
+        "original": "他解释了为什么叫‘个人电影’的原因是：我们展示的作品风格独特，自由地诠释了广阔的形式、主题和意象……",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "‘实验电影之父’Stan Brakhage，Jon Jost，Kenneth Anger，Carolee Schneeman，Valie Export，Paul Sharits，Michael Snow等有影响力的实验电影导演，他们的作品在此系列中首次公映。",
+        "original": "许多有影响力的实验电影导演，如‘实验电影之父’Stan Brakhage，Jon Jost(人名)，Kenneth Anger，Carolee Schneeman，Valie Export，Paul Sharits，Michael Snow等，都在此系列中首次放映他们的作品。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "千禧年电影中心位于纽约市，是极少数提供16毫米和超8毫米设备和课程的少数电影中心之一。",
+        "original": "值得一提的是，千禧年电影中心是纽约市(地名)极少数提供16毫米和超8毫米设备和课程的电影中心。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "组合"
+        ],
+        "simplified_text": "有影响力的实验电影导演，如‘实验电影之父’Stan Brakhage、Jon Jost、Kenneth Anger、Carolee Schneeman、Valie Export、Paul Sharits、Michael Snow等，他们的作品在此系列中首次公开。",
+        "original": "‘实验电影之父’Stan Brakhage，Jon Jost，Kenneth Anger，Carolee Schneeman，Valie Export，Paul Sharits，Michael Snow等有影响力的实验电影导演，他们的作品在此系列中首次公开。",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "他解释了‘个人电影’的命名原因。这种作品风格独特，自由表达多种形式、主题和象征，与传统电影不同，更接近艺术。",
+        "original": "他解释了‘个人电影’的命名原因，就是作品风格独特，自由表达多种形式、主题和象征，与传统电影不同，更接近艺术形式。",
+        "version": 3,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "此系列通常由导演解说，并举办公开影展。影展旨在宣传实验电影，激励学生展示作品。",
+        "original": "此系列通常由导演解说，并且举办公开影展(摄影作品展览)，旨在宣传实验电影，激励学生展示电影作品。",
+        "version": 3,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "此系列首次公开了知名实验电影导演Stan Brakhage、Jon Jost、Kenneth Anger、Carolee Schneeman、Valie Export、Paul Sharits、Michael Snow等人的电影作品。",
+        "original": "此系列中首次公开了知名实验电影导演如Stan Brakhage(人名)、Jon Jost(人名)、Kenneth Anger、Carolee Schneeman、Valie Export、Paul Sharits、Michael Snow等人的电影作品。",
+        "version": 3,
+        "chunk_num": 2,
+        "type": "Wiki"
+    }
+]

@@ -1,0 +1,276 @@
+[
+    {
+        "simp_type": [
+            "调整语序",
+            "拆分"
+        ],
+        "simplified_text": "本年度最受关注的华语电影之一，这部以南京大屠杀为背景的影片与同类题材影片略有不同。它不仅忠实记录历史，还通过中国军官陆剑雄、归国女教师姜淑云和日本军官角川三个人的视角，再现了当年的惨烈灾难。",
+        "original": "作为本年度最受关注的华语电影之一，这部以南京(地名)大屠杀(听歌)为背景的影片和之前同类题材的影片略有不同，不仅仅是忠实记录历史，而是通过三个人物中国(中华人民共和国)军官陆剑雄(人名)、归国女教师姜淑云(人名)和日本(地名)军官角川(人名)的视角，再现了当年那场惨绝人寰的灾难。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "当初，你是如何与陆川导演以及blog导演实现合作的，并在剧中扮演了女二号‘唐太太’？",
+        "original": "华商晨报(机构名)：当初，是什么样的契机使你实现了跟陆川(人名)(blog(人名))导演的合作，并在剧中出演女二号“唐(人名)太太”？",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "陆川导演的电影我很喜欢。他说我合适，我就加入了。",
+        "original": "加上我一直也非常喜欢陆川(人名)导演的电影，他说我合适，我就加入了。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "原剧本中，秦岚饰演的角色戏份较少。与导演沟通后，决定丰富人物，包括范伟饰演的唐先生也增加了戏份。",
+        "original": "秦岚(人名)：原剧本里这个角色戏份不多，后来和导演聊，觉得人物可以更丰富，包括范伟(人名)扮演的唐(人名)先生也给加了戏。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "秦岚饰演的唐太太是典型的中国女性形象。她的命运令人无奈，展现了她痛苦中努力生活的力量。",
+        "original": "秦岚(人名)：唐(人名)太太是典型的中国(中华人民共和国)女性形象，她的命运让人无奈，流露出在痛苦中努力活下去的力量。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "与以往角色不同，此次重点不在于扮美。我非名人，亦非单纯扮美形象，而是演员。我希望展现每个角色，以成为真正的演员。",
+        "original": "和以前的角色相比，这次重点不是扮美，我既不是名人也不是单纯扮美的形象，我是个演员，希望看到我塑造的每个角色，这样才能成为完整的演员。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "华商晨报：陆川导演，你觉得在大制作电影中，哪一点最感染你？",
+        "original": "华商晨报(机构名)：这是你第一次拍大制作电影吧，陆川(人名)导演最感染你的是什么？",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "陆导最打动我的是他在拍摄中展现出的对艺术的热爱和不放弃的精神。",
+        "original": "陆(人名)导最打动我的是他对艺术的热爱，在拍摄中表现出的那种不放弃的精神。",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "他很有毅力，能坚持。你知道，拍电影压力大，我之前离开剧组几个月，回来时看到剧组的人都好像老了，这可以想象他们为这部电影付出了很多。",
+        "original": "他很有毅力，很能坚持，你知道，拍这种电影压力很大，之前我离开剧组几个月，回来时看到剧组里的人都好像老了，可以想象他们为这部电影付出了很多。",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "秦岚说不是她选的范伟，而是范老师自己开玩笑的。",
+        "original": "华商晨报(机构名)问范(人名)伟(人名)是你选的，秦岚(人名)说不是的，是范(人名)老师自己开玩笑的。",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序",
+            "拆分"
+        ],
+        "simplified_text": "导演觉得范(人名)老师有发挥空间，大家也因此觉得他不错。秦岚(人名)之前喜欢他演的《芳香之旅》。",
+        "original": "导演和大家觉得范(人名)老师不错，因为秦岚(人名)之前喜欢他演的《芳香之旅》，但主要是导演觉得范(人名)老师有发挥空间。",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "本年度最受关注的华语电影之一，这部影片以南京大屠杀为背景，与同类主题影片略有不同。",
+        "original": "本年度最受关注的华语电影之一，这部以南京(地名)大屠杀为背景的影片与同类主题影片略有不同。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "它记录历史，并通过中国军官陆剑雄、归国女教师姜淑云和日本军官角川的视角，再现了当年的惨烈灾难。",
+        "original": "它不仅忠实记录历史，还通过中国(中华人民共和国)军官陆剑雄(人名)、归国女教师姜淑云(人名)和日本(地名)军官角川(人名)三个人的视角，再现了当年的惨烈灾难。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "唐(人名)太太这个角色分量重。当初你是如何与陆川(人名)导演和blog(人名)导演合作的？在剧中，你饰演的是女二号‘唐(人名)太太’。",
+        "original": "唐(人名)太太这个角色很沉重，当初你是如何与陆川(人名)导演以及blog(人名)导演实现合作的，并在剧中饰演女二号‘唐(人名)太太’？",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "组合",
+            "调整语序"
+        ],
+        "simplified_text": "导演与我见面后认为我适合电影中的角色某太太。",
+        "original": "秦岚(人名)：导演和我见面后，觉得我很适合电影中的一个角色，就是某太太。",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "沟通后，导演决定让这个角色更丰满，范伟饰演的某先生也增加了戏份。",
+        "original": "导演和我沟通后，决定让这个角色更丰满，包括范伟(人名)饰演的某先生也多了戏份。",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "秦岚拍摄前做了很多研究，包括观看导演提供的书和电影，以及网上搜集的资料。",
+        "original": "秦岚(人名)：有，拍摄前做了很多研究，导演给我们看了很多书和电影，我们还上网找了一些资料。",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "拍摄过程中，我还在学习，感到非常震撼和沉痛。",
+        "original": "后来进组拍摄时还在学习，整个过程中，感觉就是非常震撼，非常沉痛……",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "你知道，拍电影压力大。我离开剧组几个月后回来，发现剧组的人都显得老了。这可以想象，他们为这部电影付出了很多努力。",
+        "original": "你知道，拍电影压力大，我之前离开剧组几个月，回来时看到剧组的人都好像老了，这可以想象他们为这部电影付出了很多。",
+        "version": 2,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "秦岚表示，选范伟的不是她，而是范老师自己开的玩笑。",
+        "original": "秦岚(人名)说不是她选的范(人名)伟(人名)，而是范(人名)老师自己开玩笑的。",
+        "version": 2,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "本年度最受关注的华语电影之一是这部影片。它以南京大屠杀为背景，与同类影片不同，记录历史并从不同视角展现了当年的惨烈灾难。",
+        "original": "这部影片是本年度最受关注的华语电影之一，以南京大屠杀为背景，与同类主题影片有所不同，记录历史并通过不同视角再现了当年的惨烈灾难。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "秦岚在拍摄前做了大量研究，包括观看导演提供的书籍、电影和网上搜集的资料。",
+        "original": "秦岚(人名)：拍摄前做了很多研究，包括看导演提供的书和电影，还有网上搜集的资料。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "陆导在拍摄中展现了对艺术的热爱和坚持，他非常有毅力。",
+        "original": "陆(人名)导最打动她的是他在拍摄中呈现出的对艺术的热爱和坚持精神，他非常有毅力。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "她提到，拍摄电影压力大。她离开剧组几个月后回来，看到大家都显得老了。原因是大家都为这部电影付出了很多努力。",
+        "original": "她提到，拍摄电影压力很大，她离开剧组几个月后回来，发现剧组的人都显得老了，这是因为他们为这部电影付出了很多努力。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "秦岚透露，选范伟出演非她决定，是范老师自己开的玩笑。",
+        "original": "秦岚(人名)透露，选范(人名)伟(人名)出演并非她决定，而是范(人名)老师自己开的玩笑。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "范老师本人安静，不擅长表达情感。他生活中的形象与银幕上的搞笑角色有很大不同。",
+        "original": "范(人名)老师本人很安静，不太擅长传达情感，生活中的他与银幕上的搞笑形象大相径庭。",
+        "version": 3,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    }
+]

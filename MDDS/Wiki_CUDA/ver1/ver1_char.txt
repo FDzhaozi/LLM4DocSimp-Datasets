@@ -1,0 +1,25 @@
+CUDA
+CUDA（Compute Unified Device Architecture，统一计算架构）是由NVIDIA所推出的一种整合技术，是该公司对于GPGPU的正式名称。透过这个技术，使用者可利用NVIDIA的GeForce 8以后的GPU和较新的Quadro GPU进行计算。亦是首次可以利用GPU作为C-编译器的开发环境。NVIDIA行销的时候，往往将编译器与架构混合推广，造成混乱。实际上，CUDA可以相容OpenCL或者自家的C-编译器。无论是CUDA C-语言或是OpenCL，指令最终都会被驱动程式转换成PTX代码，交由显示核心计算。
+以GeForce 8800 GTX为例，其核心拥有128个内处理器。利用CUDA技术，就可以将那些内处理器串通起来，成为线程处理器去解决数据密集的计算。而各个内处理器能够交换、同步和共享数据。利用NVIDIA的C-编译器，通过驱动程式，就能利用这些功能。亦能成为流处理器，让应用程式利用进行运算。
+GeForce 8800 GTX显示卡的运算能力可达到520GFlops，如果建设SLI系统，就可以达到1TFlops。 
+但程序员在利用CUDA技术时，须分开三种不同的存储器，要面对繁复的线程层次，编译器亦无法自动完成多数任务，以上问题就提高开发难度。而将来的G100会采用第二代的CUDA技术，提高效率，降低开发难度。
+
+目前，已有软体厂商利用CUDA技术，研发出Adobe Premiere Pro的插件。通过插件，使用者就可以利用显示核心去加速H.264/MPEG-4 AVC的编码速度。速度是单纯利用CPU作软体加速的7倍左右。
+在NVIDIA收购AGEIA后，NVIDIA取得相关的物理加速技术，即是PhysX物理引擎。配合CUDA技术，显示卡可以模拟成一颗PhysX物理加速晶片。目前，全系列的GeForce 8显示核心都支援CUDA。而NVIDIA亦不会再推出任何的物理加速卡，显示卡将会取代相关产品。
+为了将CUDA推向民用，NVIDIA举行一系列的编程比赛，要求参赛者开发程式，充分利用CUDA的计算潜能。但是，要将GPGPU普及化，还要看微软能否在Windows作业系统中，提供相关的编程接口。
+2008年8月，NVIDIA推出CUDA 2.0。2010年3月22日，NVIDIA推出CUDA 3.0，仅支援Fermi及之后的架构。
+CUDA是一种由NVIDIA提出的并由其制造的图形处理单元（GPUs）实现的一种平行计算平台及程式设计模型。CUDA给程式开发人员提供直接访问CUDA GPUs中的虚拟指令集和平行计算元件的记忆体。
+
+使用CUDA技术，GPUs可以用来进行通用处理（不仅仅是图形）；这种方法被称为GPGPU。与CPUs不同的是，GPUs有著侧重以较慢速度执行大量并发执行绪的并行流架构，而非快速执行单一执行绪。
+软体发展者可以通过CUDA加速库，编译器指令（如OpenACC）以及符合工业标准的程式设计语言（如C,C++和Fortran）扩展对CUDA平台进行操作。C/C++程式师可以使用“CUDA C/C++”，使用“NVCC”——NVIDIA基于LLVM的C/C++编译器进行编译；Fortran程式师可以使用“CUDA Fortran”，使用PGI公司的PGI CUDA Fortran编译器进行编译。除了库、编译器指令、CUDA C/C++和CUDA Fortran，CUDA平台还支援其它计算介面，如Khronos Group的OpenCL，Microsoft的DirectCompute，以及C++AMP。其协力厂商封装也可用于Python，Perl，Fortran，Java，Ruby，Lua，Haskell，MATLAB，IDL及Mathematica的原生支持。
+在电脑游戏行业中，GPUs不仅用于进行图形渲染，而且用于游戏物理运算（物理效果如碎片、烟、火、流体），比如PhysX和Bullet。在计算生物学与密码学等领域的非图形应用上，CUDA的加速效果达到可以用数量级来表示的程度。
+
+CUDA同时提供底层API与高阶API。最初的CUDA软体发展包（SDK）于2007年2月15日公布，支持Microsoft Windows和Linux。而后在第二版中加入对Mac OS X的支持，取代2008年2月14日发布的测试版。所有G8x系列及以后的NVIDIA GPUs皆支援CUDA技术，包括GeForce，Quadro和Tesla系列。CUDA与大多数标准作业系统相容。Nvidia声明：根据二进位相容性，基于G8x系列开发的程式无需修改即可在未来所有的Nvidia显卡上运行。
+在GPUs（GPGPU）上使用图形APIs进行传统通用计算，CUDA技术有下列几个优点：
+利用CUDA技术，配合适当的软体（例如MediaCoder、Freemake Video Converter），就可以利用显示核心进行高清视频编码加速。视频解码方面，同样可以利用CUDA技术实现。此前，NVIDIA的显示核心本身已集成PureVideo单元。可是，实现相关加速功能的一个微软API－DXVA，偶尔会有加速失效问题。所以利用CoreAVC配合CUDA，变相在显示核心上实现软体解码，解决兼容性问题。另外，配合适当的引擎，显示核心就可以计算光线跟踪。NVIDIA就放出了自家的Optix实时光线跟踪引擎，透过CUDA技术利用GPU计算光线跟踪。
+所有基于G80及之后架构的民用与专业显示卡或运算模组皆支援CUDA技术。
+下列的范例是如何用C++自GPU的image阵列中取得纹理（texture）：
+
+下列的例子是用Python改写. Python相关的讯息可取自PyCUDA.
+更多的Python的矩阵相乘问题可取自pycublas.
+

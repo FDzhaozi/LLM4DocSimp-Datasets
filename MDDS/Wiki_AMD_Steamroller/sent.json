@@ -1,0 +1,250 @@
+[
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "2011年发布了首代Bulldozer架构，2012年推出了增强版Bulldozer架构（Piledriver架构），2013年/2014年推出了第三代Bulldozer架构（Steamroller架构），2015年/2016年推出了第四代Bulldozer架构（Excavator架构）。",
+        "original": "2011年发布了首代Bulldozer架构(框架结构)，2012年发布了增强版Bulldozer架构(框架结构)（即Piledriver架构(框架结构)），2013年/2014年推出了第三代Bulldozer架构(框架结构)（即Steamroller(机构名)架构(框架结构)），2015年/2016年推出了第四代Bulldozer架构(框架结构)（即Excavator架构(框架结构)）。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "2011年，超微公司提及了基于Bulldozer架构改进的下一代架构和产品线，命名为‘下世代Bulldozer’，并采用28纳米工艺。",
+        "original": "2011年超微(机构名)公司就提到了基于Bulldozer架构(框架结构)改进的下一代架构(框架结构)及其产品线，称为“下世代Bulldozer”，采用28纳米工艺。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "2011年9月21日，超微官方泄漏的消息称，采用28纳米工艺的“下世代Bulldozer”的微架构代号为“Steamroller”。这个代号的中文是“压路机”。",
+        "original": "2011年9月21日，超微(机构名)官方泄漏的消息显示，这个采用28纳米工艺的“下世代Bulldozer”的微架构(框架结构)代号为“Steamroller(机构名)”（中文：压路机）。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "组合",
+            "调整语序"
+        ],
+        "simplified_text": "Steamroller架构的处理器，如Piledriver，是AMD Fusion A系列处理器的一部分，包括移动版和桌面版，内核名为“Kaveri”。",
+        "original": "基于Steamroller(机构名)架构(框架结构)的处理器首发产品和Piledriver一样，是基于新架构(框架结构)的AMD Fusion A系列处理器，包括移动版和桌面版，内核名称为“Kaveri”。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "Russinoff机构参与了Llano APU的设计。其DIV单元与前代K10设计不同，而推土机则继承了K10的设计。此外，FMAC单元中的除法器功能有限。",
+        "original": "Russinoff(机构名)参与了Llano APU的设计，其DIV单元与前代K10的设计不同，推土机继承了K10的设计，FMAC单元中的除法器功能有限。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "Steamroller的设计和Llano类似，但不完全相同。它采用的是基数8，而Llano是基数4。因此，每周期执行的指令数也从Llano的2条提升到了3条。",
+        "original": "现在Steamroller(机构名)的设计类似于Llano，但不是完全相同，因为它使用的是基数8而非Llano的基数4，每周期执行的指令数从2条提高到了3条。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "AMD(机构名)的进步比Intel(机构名)慢，因为Intel(机构名)在酷睿时代的Penryn架构(框架结构)上已经采用了16进制除法器。这使每周期指令量从2条增加到4条，数据延迟降低，浮点单元和整数单元也因此获得提升。",
+        "original": "对比Intel(机构名)的进步，AMD(机构名)确实慢了一些，因为Intel(机构名)在酷睿时代的Penryn架构(框架结构)上就已经使用了16进制除法器，每周期指令量从原来的2条增加到4条，数据延迟更低，浮点单元和整数单元也因此受益。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "首发产品是A系列Fusion APU，类似于Piledriver和Steamroller。2015年推出了移动版。AMD将放弃模块化设计，转而使用14/16nm FinFET工艺重新设计处理器，采用SMT多线程技术，代号为“Zen”。",
+        "original": "和之前的Piledriver、Steamroller一样，首发产品仍是A系列Fusion APU，2015年推出移动版；随后，AMD(机构名)将放弃模块化设计，采用14/16nm FinFET重新设计采用SMT多线程技术的处理器，代号“Zen”。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "在新加坡Future of Compute大会上，AMD宣布了2015年计划。主打产品包括两款APU：高效能的Carrizo和主流级的Carrizo-L，它们面向游戏、生产力和4K体验解决方案。Carrizo将采用新的x86架构核心Excavator和下一代Radeon GPU架构，并支持HSA 1.0异构计算技术及微软Windows 10。",
+        "original": "AMD(机构名)在新加坡(地名)Future of Compute(机构名)大会上宣布2015年的计划，主打高效能的SoC Carrizo和主流级的Carrizo-L两款APU，目标集中在游戏、生产力和4K体验解决方案；Carrizo将引入全新的x86架构(框架结构)核心Excavator和下一代Radeon GPU架构(框架结构)，并具备HSA 1.0异构计算技术，同时也支持微软(机构名)的Windows 10。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "瑞典网站SweClockers发布消息称，Zen的多项细节已获可靠信息，其同步多线程技术与Intel类似，预计2016年第三季度推出。",
+        "original": "瑞典(地名)网站SweClockers(机构名)称获得了可靠消息，发布了Zen的多项细节，它与Intel的同步多线程技术类似，预计在2016年第三季度推出。",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "2011年发布首代推土机架构，2012年推出增强版，2013至2014年推出第三代压路机架构，2015至2016年推出第四代挖掘机架构。",
+        "original": "2011年发布了首代推土机架构(框架结构)，2012年推出了增强版（推土机增强版），2013/2014年推出了第三代（压路机架构(框架结构)），2015/2016年推出了第四代（挖掘机架构(框架结构)）。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "2011年9月21日，超微官方透露，'下一代推土机'采用28纳米技术，其微架构代号为'压路机'。",
+        "original": "2011年9月21日，超微官方泄露的消息称，采用28纳米技术的‘下一代推土机’的微架构(框架结构)代号为‘压路机’。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "推土机增强版等压路机架构处理器，属于AMD A系列处理器的一部分，涵盖移动和桌面版，其内核名为‘Kaveri’。",
+        "original": "压路机架构(框架结构)的处理器，如推土机增强版，是AMD(机构名) A系列处理器的一部分，包括移动版和桌面版，内核称为‘Kaveri’。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "AMD的进步不如Intel，因为Intel在酷睿时代的Penryn架构上已经采用了16进制除法器。",
+        "original": "AMD(机构名)的进步比Intel(机构名)慢，因为Intel(机构名)在酷睿时代的Penryn架构(框架结构)上已经使用了16进制除法器。",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "AMD将放弃模块化设计，改为采用14/16nm FinFET工艺重新设计处理器。该处理器采用SMT多线程技术，代号为‘Zen’。",
+        "original": "AMD(机构名)将放弃模块化设计，转而使用14/16nm FinFET工艺重新设计处理器，采用SMT多线程技术，代号为“Zen(机构名)”。",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "主打产品有Carrizo(机构名)和Carrizo(机构名)-L两款APU，前者高效，后者主流。它们适用于游戏、生产力和4K体验。",
+        "original": "主打产品包括两款APU：高效能的Carrizo(机构名)和主流级的Carrizo(机构名)-L，它们面向游戏、生产力和4K体验解决方案。",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "组合",
+            "调整语序"
+        ],
+        "simplified_text": "Carrizo机构将使用新的x86架构核心Excavator和下一代Radeon GPU架构，同时支持HSA 1.0异构计算技术以及微软Windows 10操作系统。",
+        "original": "Carrizo(机构名)将采用新的x86架构(框架结构)核心Excavator和下一代Radeon GPU架构(框架结构)，并支持HSA 1.0异构计算技术及微软(机构名)Windows 10。",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "SweClockers发布消息，称Zen的多项细节已得知可靠信息。其同步多线程技术与Intel类似，预计2016年第三季度推出。",
+        "original": "瑞典(地名)网站SweClockers(机构名)发布消息称，Zen(机构名)的多项细节已得知可靠信息，其同步多线程技术与Intel(机构名)类似，预计2016年第三季度推出。",
+        "version": 2,
+        "chunk_num": 4,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "Zen和K12一个是x86，一个是ARM，但它们都使用Socket AM4接口，所以可以互相兼容。",
+        "original": "虽然Zen(机构名)和K12一个是x86、一个是ARM，但它们将使用相同的Socket AM4接口，即可以互相兼容。",
+        "version": 2,
+        "chunk_num": 4,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "超微公司在2011年提到，基于该机械架构的下一代机械，采用28纳米技术。",
+        "original": "超微(机构名)公司(机构名)在2011年提到了基于该机械架构(框架结构)的下一代该机械，该产品采用28纳米技术。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "AMD的进步不如Intel，因为Intel在酷睿时代的Penryn架构上采用十六进制除法器。这使每周期指令数量从2条增至4条，降低了数据延迟，提高了浮点单元和整数单元的效率。",
+        "original": "AMD(机构名)的进步不如Intel(机构名)，因为Intel(机构名)在酷睿时代的Penryn架构(框架结构)上使用了十六进制除法器，使得每周期指令数量从2条增加到4条，减少了数据延迟，提升了浮点单元和整数单元。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "组合",
+            "调整语序"
+        ],
+        "simplified_text": "Carrizo机构采用新的Excavator x86架构核心和Radeon GPU架构，兼容HSA 1.0异构计算技术及Windows 10操作系统，同时支持DirectX 12及12.0级别功能。",
+        "original": "Carrizo(机构名)使用了新的x86架构(框架结构)核心Excavator和下一代Radeon GPU架构(框架结构)，支持HSA 1.0异构计算技术和Windows 10操作系统，并确定支持DirectX 12和12.0级别的功能级别。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "AMD自主研发的ARM架构‘K12’将于2016年推出。",
+        "original": "AMD(机构名)自主研发(研究开发)的ARM架构(框架结构)“K12”也将在2016年推出。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "Wiki"
+    }
+]

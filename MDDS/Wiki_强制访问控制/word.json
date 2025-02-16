@@ -1,0 +1,125 @@
+[
+    {
+        "substitutions": {},
+        "simplified_text": "强制访问控制（MAC）是指计算机安全中的一种措施，它通过操作系统来限制程序或线程访问文件、目录等对象的能力。系统会检查程序和对象的安全设置，决定是否允许访问。这种控制不仅用于操作系统，数据库管理中也能应用，以保护表、视图等对象。",
+        "original": "强制访问控制\n强制访问控制（，缩写MAC）在计算机安全领域指一种由操作系统约束的存取控制，目标是限制主体或发起者访问或对对象或目标执行某种操作的能力。在实践中，主体通常是一个进程或线程，对象可能是文件、目录、TCP/UDP端口、共享内存段、I/O设备等。主体和对象各自具有一组安全属性。每当主体尝试访问对象时，都会由操作系统内核强制施行授权规则——检查安全属性并决定是否可进行访问。任何主体对任何物件的任何操作都将根据一组授权规则（也称策略）进行测试，决定操作是否允许。在数据库管理系统中也存在访问控制机制，因而也可以应用强制访问控制；在此环境下，对象为表、视图、过程等。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "substitutions": {},
+        "simplified_text": "通过强制访问控制，安全规则由专门的管理员统一管理；用户不能改变这些规则，比如不能给被禁止访问的文件开放权限。相比之下，自主访问控制（DAC）也管理用户访问文件的能力，但让用户自己决定权限或设置安全级别。（老式Unix系统里的用户、组以及读-写-执行权限就是一个例子。）使用MAC(机构名)的系统能让管理员设定整个组织的安全规则。在MAC(机构名)中，与DAC不同，用户无法改变这些规则，不管是无意还是故意。这样，管理员制定的核心规则就能确保对每位用户都生效。\n在过去，MAC(机构名)通常与多级安全（MLS(机构名)）和军事系统连在一起。在这里，MAC(机构名)要非常严格以满足MLS(机构名)的要求。但近年来，MAC(机构名)已经不再局限于MLS(机构名)，变得更为普遍。像Linux的SELinux和AppArmor，以及Windows的强制完整性控制等，都是最新的MAC(机构名)应用实例，帮助管理员应对网络攻击或病毒等问题，而不只是应对严格的MLS(机构名)环境。",
+        "original": "通过强制访问控制，安全策略由安全策略管理员集中控制；用户无权覆盖策略，例如不能给被否决而受到限制的文件授予访问权限。相比而言，自主访问控制（DAC）也控制主体访问对象的能力，但允许用户进行策略决策和/或分配安全属性。（传统Unix系统的用户、组和读-写-执行就是一种DAC。）启用MAC的系统允许策略管理员实现组织范围的安全策略。在MAC（不同于DAC）下，用户不能覆盖或修改策略，无论为意外或故意。这使安全管理员定义的中央策略得以在原则上保证向所有用户强制实施。\n在历史上和传统上，MAC与（MLS）和专业的军用系统密切相关。在此环境中，MAC意味着高度严格以满足MLS系统的约束。但在最近，MAC已从MLS本身中发展出来，并变得更加主流。最近的MAC实现有诸如面向Linux的SELinux和AppArmor，以及面向Windows的强制完整性控制，它们使管理员得以关注没有严格或MLS约束时遇到的如网络攻击或恶意软件等问题。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "substitutions": {
+            "不切实际": "难以实现"
+        },
+        "simplified_text": "历史上，MAC(机构名)与保护美国(地名)等级信息的（MLS）紧密相关。（TCSEC）是这方面的一个开创性工作，它将MAC(机构名)定义为“依据对象内信息的敏感度（用标签表示）来限制对对象的访问及该对象查看此类敏感信息的权限”。MAC(机构名)早期的应用包括Honeywell的SCOMP、USAF SACDIN、NSA Blacker，以及波音(机构名)的MLS LAN。\n\n在军事系统中，MAC(机构名)中的“强制性”具有特殊意义，意味着极高的安全性，确保控制机制能抵御所有破坏，以执行政府规定的访问控制，如针对美国(地名)等级信息的第12958号行政命令。这种强制性的保障要求高于商业标准，不允许‘尽力而为’的方法。MAC(机构名)仅采纳那些能绝对或近乎绝对确保执行的措施。对于不熟悉高度保障策略的人来说，这可能很难理解或被认为难以实现。",
+        "original": "历史上，MAC与作为保护美国等级信息的（MLS）手段密切相关。（TCSEC）就是就这一主题的开创性工作，其中将MAC定义为“基于对象中包含信息的敏感性（由标签表示）来显示对对象的访问途径以及对象访问这种敏感信息的授权”。MAC的早期实现有Honeywell的SCOMP、USAF SACDIN、NSA Blacker，以及的波音MLS LAN。\n术语MAC中的“强制性”已经因其在军事系统中的使用而获得了特殊含义。在这方面，MAC意味着非常高的健壮性，确保控制机制能够抵抗任何类型的破坏，从而使他们能够执行由政府命令授权的访问控制，诸如面向美国等级信息的第12958号行政命令 。强制施行的保证性要求要高于商业应用，因此这不允许采用“尽力而为”的机制。MAC只接受能够绝对或者几乎绝对地保证任务执行的机制。这点对于不熟悉高保证策略的人来说可能很困难或者被假定为不切实际。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "substitutions": {},
+        "simplified_text": "在一些系统里，用户可以决定是否让其他人看到信息。为此，所有人必须能查看所有资料。这并不是高度安全系统的要求。如果有人或程序不能看系统里的某些数据，系统就必须可靠，保证严格控制谁能看到什么（MAC）。因为数据和用户权限有不同的级别，所以系统的强健程度可以用数字表示。比如，保护最高机密信息、不让未经审核的人看的系统比只保护秘密信息、用户至少能看机密信息的系统更强健。为了统一度量强健性并减少主观判断，科学家做了深入研究和风险评估，制定了一套标准来衡量系统的安全强健性，并对应到不同安全环境所需的信任级别。这些结果写在CSC-STD-004-85文件里。强健性被分为两个主要部分：保证级别和功能。这两点都有详细规定，使得基于这些标准的认证很可靠。这个原则是为了保持保证级别和功能要求不变。但在实际操作中，只有保证级别（EAL）被很好地保留了。像C2级（不是高度安全类别）在通用标准中作为CAPP被相对忠实地保留了。（类似B2的）高度安全保护轮廓比B2更广泛，遵循高度安全原则，但缺少具体实施要求，更侧重目标。这让认证者在判断产品技术是否达到目的时有更多主观空间，可能导致产品认证的一致性下降，不那么可靠的产品更容易通过认证。因此，保护轮廓的技术细节对于判断产品是否合适至关重要。这样的设计阻止特定分类或信任级别的用户或程序访问不同级别的信息、过程或设备。这能限制用户和程序（包括未知程序，系统需监控其对设备和文件的访问）的活动。少数如优利系统项目实现了足够强健的控制，在上个世纪末能将绝密和非机密分开。但其技术已过时且未更新。现在没有经过认证达到同样强健度的产品。但仍有一些不太强健的产品存在。",
+        "original": "在某些系统中，用户有权决定是否向其他任何用户授予访问权限。为允许这点，所有用户都必须有所有数据的审查许可。这不是MLS系统所需必要条件。如果个人或进程可能被拒绝访问系统环境中的任何数据，则系统必须可信以强制执行MAC。由于可能存在各种级别的数据等级和用户许可，这也显示了健壮性的量化指标。例如，more robustness is indicated for system environments 包含划分等级的最高机密信息 and uncleared users than for one with Secret information and users cleared to at least Confidential. To promote consistency and eliminate subjectivity in degrees of robustness, an extensive scientific analysis and risk assessment of the topic produced a landmark benchmark standardization quantifying security robustness capabilities of systems and mapping them to the degrees of trust warranted for various security environments. 该结果记录于CSC-STD-004-85。 Two relatively independent components of robustness were defined: Assurance Level and Functionality. Both were specified with a degree of precision that warranted significant confidence in certifications based on these criteria.\nThe is based on this science and it intended to preserve the Assurance Level as and the functionality specifications as s. Of these two essential components of objective robustness benchmarks, only EAL levels were faithfully preserved. In one case, level C2 (not a MAC capable category) was fairly faithfully preserved in the Common Criteria, as the (CAPP). (MLS) Protection Profiles (such as MLSOSPP similar to B2) is more general than B2. They are pursuant to MLS, but lack the detailed implementation requirements of their predecessors, focusing more on objectives. This gives certifiers more subjective flexibility in deciding whether the evaluated product’s technical features adequately achieve the objective, potentially eroding consistency of evaluated products and making it easier to attain certification for less trustworthy products. For these reasons, the importance of the technical details of the Protection Profile is critical to determining the suitability of a product.\nSuch an architecture prevents an authenticated user or process at a specific classification or trust-level from accessing information, processes, or devices in a different level. This provides a containment mechanism of users and processes, both known and unknown (an unknown program (for example) might comprise an untrusted application where the system should monitor and/or control accesses to devices and files).\nA few MAC implementations, such as 优利系统' project, were certified robust enough to separate Top Secret from Unclassified late in the last millennium. Their underlying technology became obsolete and they were not refreshed. Today there are no current implementations certified by to that level of robust implementation. However, some less robust products exist.",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "Wiki"
+    },
+    {
+        "substitutions": {},
+        "simplified_text": "在过去，MAC(机构名)通常与多级安全和军事系统关联。这里，MAC(机构名)需严格以满足多级安全需求。但近年来，MAC(机构名)已不限于多级安全，更加普及。例如，Linux(机构名)的SELinux(机构名)和AppArmor，以及Windows的强制完整性控制，都是MAC(机构名)的现代应用案例。它们帮助管理员防范网络攻击或病毒，不仅用于严格的多级安全环境。传统上，MAC(机构名)与保护美国(地名)机密信息的体系密切相关。（TCSEC(机构名)）是这方面的先驱，定义MAC(机构名)为“依据信息的敏感度（用标签标识）限制访问和查看该敏感信息”。MAC(机构名)早期实例有Honeywell(机构名)的SCOMP、空军的SACDIN、NSA的Blacker，以及波音(机构名)的保密局域网。",
+        "original": "在过去，MAC(机构名)通常与多级安全（MLS(机构名)）和军事系统连在一起。在这里，MAC(机构名)要非常严格以满足MLS(机构名)的要求。但近年来，MAC(机构名)已经不再局限于MLS(机构名)，变得更为普遍。Linux的SELinux和AppArmor，以及Windows的强制完整性控制等，都是MAC(机构名)的最新应用实例。它们帮助管理员应对网络攻击或病毒等问题，不仅限于应对严格的MLS(机构名)环境。历史上，MAC(机构名)与保护美国(地名)等级信息的（MLS）紧密相关。（TCSEC）是这方面的一个开创性工作，它将MAC(机构名)定义为“根据对象内信息的敏感度（用标签标注）来限制访问对象及查看该对象中的此类敏感信息”。MAC(机构名)早期的应用包括Honeywell的SCOMP、USAF SACDIN、NSA Blacker，以及波音(机构名)的MLS LAN。",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "substitutions": {},
+        "simplified_text": "在一些系统中，用户可以选择公开或隐藏信息。因此，系统需允许每个人查看所有资料，但这并非高度安全所需。系统得可靠，严格管理谁能看什么（访问控制），并确保某些数据对不当的人或程序保密。由于数据和用户权限有不同级别，系统安全性可以用数值衡量。比如，既能保护最高机密又阻止未经授权访问的系统比仅保护秘密信息、允许查看一定机密的系统更安全。科学家仔细研究并评估风险，希望建立一套标准来量化系统安全强度，减少主观判断。这些标准符合不同安全场景的信任需求，并记录在CSC-STD-004-85文件中。",
+        "original": "在一些系统里，用户可以决定是否让其他人看到信息。为此，所有人必须能查看所有资料。这并不是高度安全系统的要求。系统必须可靠，确保严格控制能看到什么（MAC），如果有人或程序不能查看系统内的某些数据。因为数据和用户权限有不同的级别，所以系统的强健程度可以用数字表示。例如，相比只保护秘密信息且用户能至少查看机密信息的系统，那些不仅保护最高等级机密、还禁止未授权人员访问的系统更为坚固。科学家深入研究并进行风险评估，旨在统一度量强健性并减少主观判断。他们制定了一套标准衡量系统安全强健性，这些标准对应不同安全环境所需的信任级别。这些结果写在CSC-STD-004-85文件里。",
+        "version": 2,
+        "chunk_num": 4,
+        "type": "Wiki"
+    },
+    {
+        "substitutions": {},
+        "simplified_text": "系统的强健性有两个主要方面：安全保障程度和功能特性。这两方面都有明确的规定，这让基于这些标准的认证变得较为可靠。目的是确保安全保障程度和功能需求保持稳定。但实际上，大多只保留了安全保障程度（即EAL）。比如，C2级别（不属于高级别安全类别）在通用标准中作为CAPP被相对完整地保留下来。而高级别安全保护框架比B2更全面，遵循高级别的安全原则，更关注目标，尽管它没有具体的实施细节。这样，在评估产品是否符合技术要求时，留给认证者的主观判断空间增大，可能导致产品认证一致性下降，使一些不够可靠的产品也能获得认证。因此，保护框架的技术细节对于评估产品是否适用非常关键。这样的设计能够防止特定分类或信任级别的用户、程序访问非授权的信息、过程或设备，从而限制了用户和程序（包括未知程序，需要监控(监察和控制)它们对设备和文件的操作）的行为。",
+        "original": "强健性被分为两个主要部分：保证级别和功能。这两点都有详细规定，使得基于这些标准的认证很可靠。这个原则是为了保持保证级别和功能要求不变。但在实际操作中，只有保证级别（EAL）被很好地保留了。像C2级（不是高度安全类别）在通用标准中作为CAPP被相对忠实地保留了。高度安全保护轮廓比B2更广泛，遵循高度安全原则，侧重于目标，尽管缺少具体实施要求。这为认证者提供了更多主观判断空间，当他们在评估产品技术是否达标时，可能会导致产品认证的一致性降低，使得不太可靠的产品更易获得认证。因此，保护轮廓的技术细节对于判断产品是否合适至关重要。这样的设计阻止特定分类或信任级别的用户或程序访问不同级别的信息、过程或设备。这能限制用户和程序（包括未知程序，系统需监控其对设备和文件的访问）的活动。",
+        "version": 2,
+        "chunk_num": 5,
+        "type": "Wiki"
+    },
+    {
+        "substitutions": {},
+        "simplified_text": "少数项目，比如优利系统，过去建立了非常强大的保护措施，在上世纪末能有效区分绝密和非机密信息。不过，这些技术现在已经过时且没有更新。目前，没有新产品通过认证达到同等的安全级别。尽管如此，还是有一些安全性较低的产品在使用。",
+        "original": "少数如优利系统项目实现了足够强健的控制，在上个世纪末能将绝密和非机密分开。但其技术已过时且未更新。现在没有经过认证达到同样强健度的产品。但仍有一些不太强健的产品存在。",
+        "version": 2,
+        "chunk_num": 6,
+        "type": "Wiki"
+    },
+    {
+        "substitutions": {
+            "强制访问控制（MAC）": "强制权限管理",
+            "程序或线程": "程序",
+            "检查其安全设置": "查看安全信息",
+            "操作系统": "系统软件",
+            "数据库管理": "数据库控制",
+            "如表、视图等对象": "数据项",
+            "不可由用户更改": "用户不能改",
+            "禁止访问的文件": "受限文件",
+            "自主访问控制（DAC）": "自主权限控制",
+            "老式Unix系统": "早期Unix系统",
+            "执行权限显示": "权限标识",
+            "MAC(机构名)": "MAC机构",
+            "整个组织设定统一的安全规则": "为全公司设安全规范",
+            "无论有意与否": "不管怎样"
+        },
+        "simplified_text": "在计算机保护方面，强制权限管理是一种系统软件里的方法，用来限制程序访问文件、目录等数据项，通过查看安全信息来判断能否访问。这不光用在系统软件上，还在数据库控制中，保护数据项。管理员设置这些用户不能改的安全规则，确保受限文件不被随便开放。相对地，自主权限控制让用户自己设置安全级别和权限，像早期Unix系统里，用户、组和权限标识很明显。MAC机构让管理员为全公司设安全规范，与自主权限控制不同，用户不能改动这些规则，不管怎样，这样管理员的中心规则对所有人都适用且被执行。",
+        "original": "在计算机安全领域，强制访问控制（MAC）是一种通过操作系统实施的措施，旨在限制程序或线程访问文件、目录等对象，通过检查其安全设置来决定访问权限。这机制不仅适用于操作系统，还应用于数据库管理，保护如表、视图等对象。管理员负责设置这些不可由用户更改的安全规则，确保例如禁止访问的文件不会被擅自授权。相比之下，自主访问控制（DAC）允许用户自定义安全级别和权限，如老式Unix系统中的用户、组，执行权限显示。MAC(机构名)系统就让管理员为整个组织设定统一的安全规则，和DAC不同，用户无法改动这些规则，无论有意与否，从而保证管理员制定的核心规则对所有用户有效并得到执行。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "substitutions": {},
+        "simplified_text": "在过去，MAC(机构名)主要涉及多级安全和军事系统，严格保证安全。但随着时间推移，MAC(机构名)的使用变得更广泛，不再局限于这些领域。比如，Linux(机构名)的SELinux(机构名)和AppArmor，以及Windows的强制完整性控制，都是现代技术中MAC(机构名)的应用例子，它们帮助抵抗网络攻击和病毒，应用更广。传统上，MAC(机构名)与美国(地名)的机密信息保护紧密相关。在这方面，TCSEC(机构名)是先行者，确立了按信息敏感度限制访问的MAC(机构名)原则。回顾过去，MAC(机构名)的早期实践包括Honeywell(机构名)的SCOMP系统、空军的SACDIN项目、NSA(机构名)的Blacker系统，以及波音(机构名)开发的保密内部网，这些都是其安全保护的重要进展。",
+        "original": "在过去，MAC(机构名)主要关联多级安全和军事系统，严格满足安全需求。但随着时间发展，MAC(机构名)的应用范围已经扩展，不再只限于这些领域。例如，Linux(机构名)的SELinux(机构名)和AppArmor，以及Windows的强制完整性控制，都是其在现代技术中的应用实例，它们在网络攻击和病毒防范上发挥作用，适用更广。传统上，MAC(机构名)紧密联系美国(地名)的机密信息安全体系。在此领域，TCSEC（机构名）作为先驱，确立了按信息敏感度（用标签区分）限制访问的MAC（机构名）原则。回溯历史，MAC(机构名)的早期实践包含了Honeywell(机构名)的SCOMP系统、空军的SACDIN项目、NSA的Blacker系统，以及波音(机构名)开发的保密局域网，这些都是它在安全保障领域的里程碑。",
+        "version": 3,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "substitutions": {},
+        "simplified_text": "在军事系统里，MAC(机构名)(机构名)的“强制性”有特别的意义，保证控制方法能抵抗所有攻击，达到极高的安全标准。这符合美国(地名)(地名)的一个重要法规，即第12958号行政命令，特别是在管理不同级别信息访问时。这种强制性的安全标准比一般商业的高，不接受任何可能失败的做法，MAC(机构名)(机构名)只用那些几乎肯定能成功的措施。对于不习惯这种严格安全策略的人来说，这个要求可能很难懂，甚至觉得不好执行。",
+        "original": "在军事系统中，MAC(机构名)的“强制性”具有特殊意义，确保控制机制能抵御所有破坏，实现非常高的安全性，这符合美国(地名)第12958号行政命令中的政府规定，尤其是在执行等级信息访问控制方面。这种强制性保障标准高于商业级别，拒绝接受‘尽力而为’的做法，MAC(机构名)只采用能绝对或近乎绝对保证执行的措施。对于不熟悉高强度保障策略的人士来说，这一要求可能难以理解，甚至被认为难以实施。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "substitutions": {
+            "科学家": "研究者"
+        },
+        "simplified_text": "在一些系统中，用户可以选择信息公开或隐藏。这样一来，尽管系统旨在使所有人能查看资料，但这并不符合高级别的安全需求。系统必须可靠，并严格执行访问控制，明确谁可以查看哪些信息，同时确保敏感数据不被未经授权的人或程序获取。由于数据和用户权限存在多个层级，系统安全性可根据标准评估。例如，一个既能保护最高级别机密，又能有效阻止未授权访问的系统，相比只能保护机密信息但允许一定程度泄露的系统，更为安全。为了实现这一目标，研究者深入分析风险，旨在建立一个客观的量化安全评估体系，减少主观判断，以便准确衡量系统的安全强度。该体系综合考虑了不同安全情境下的信任需求，并已被记录在CSC-STD-004-85文件中。",
+        "original": "在一些系统中，用户可以选公开或隐藏信息。因此，系统虽然要让每个人都能看所有资料，但这不符合高度安全的需要。系统得可靠，并严格做访问控制，清楚谁能看到哪些信息，同时保证敏感数据不受不当的人或程序拿到。因为数据和用户权限有多个级别，系统安全性可以根据标准来算。比如说，一个能保护最高等级秘密，又能有效挡住没授权访问的系统，比只能保住秘密信息还容许一定程度机密漏出去的系统，安全得多。为了达到这个目的，科学家深入看风险，想要建一个客观的量化学体系，好衡量系统安全强度，少靠主观感觉。这个体系好好想了不同安全情况下要的信任，并已经写在CSC-STD-004-85文件里了。",
+        "version": 3,
+        "chunk_num": 4,
+        "type": "Wiki"
+    },
+    {
+        "substitutions": {},
+        "simplified_text": "系统的坚固性包括两个方面：安全防护强度和功能特性，这些都有明确的标准，确保认证可靠，并维持安全及功能的稳定性。实践中，更注重安全防护（EAL），例如C2级别虽不高，但在通用标准中作为CAPP还不错。高级别的安全框架超出了B2，目标清晰，遵循严格规范，只是缺乏实际操作步骤。认证时，个人意见可能影响判断的一致性，可能导致不可靠产品通过检查。所以，技术细节对准确评价产品至关重要，以防止信息、流程或设备遭受非法入侵，限制不良行为，特别要监控(监察和控制)未知程序对设备和文件的活动，保障系统安全。少数项目，如优利系统，在上个世纪末建立了强大的保护措施，有效区分了绝密和非机密信息，但这些技术已陈旧且未更新。如今，没有新产品能达到同样的安全水平并获得认证，尽管如此，一些安全级别较低的产品仍在使用中。",
+        "original": "系统的强健性涉及两方面：安全保护程度和功能特点，都有明确标准，保证认证可靠，并保持安全及功能的稳定。实际上，更多关注安全保护（EAL），比如C2等级虽不是高等级，但在通用标准中作为CAPP较好地保留了。高等级框架超过B2，目标明确，遵守严格规则，只是缺少具体实施步骤。认证时，个人看法可能影响判断一致性，可能导致不可靠产品通过审核。因此，技术细节对于准确评估产品非常关键，以防信息、流程或设备被非法侵入，限制不良行为，特别是监控未知程序对设备和文件的活动，确保系统安全。\n少数项目，像优利系统，在上世纪末设立了强大的防护措施，有效地分开绝密和非保密信息，但这些技术已过时且未更新。现在，没有新出的产品达到相同安全等级并通过认证，即便这样，还有一些安全级别较低的产品在使用中。",
+        "version": 3,
+        "chunk_num": 5,
+        "type": "Wiki"
+    }
+]

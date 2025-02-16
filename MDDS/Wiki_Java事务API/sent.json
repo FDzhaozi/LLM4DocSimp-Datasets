@@ -1,0 +1,75 @@
+[
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "若调用线程的环境与事务关联，而事务管理器不支持嵌套事务，UserTransaction的begin方法调用将抛出NotSupportedException。",
+        "original": "如果调用线程的环境已经与事务关联，并且事务管理器的实现不支持嵌套事务，UserTransaction的begin方法调用时将抛出NotSupportedException。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "事务管理器若为JTS规范实现，则采用CORBA OTS 1.1规范描述的事务环境传播格式。",
+        "original": "例如，如果事务管理器是JTS规范的实现，将使用CORBA OTS 1.1规范中描述的事务环境传播格式。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "现在有独立的JTA实现，这使得Java应用程序能利用JTA/XA的可靠性。",
+        "original": "现在有独立的JTA(机构名)实现，这使得普通的Java应用程序也能利用JTA(机构名)/XA的可靠性。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "使用Spring工具时，提供了开发可靠Java应用程序的不同方法。",
+        "original": "特别是在与Spring工具一起使用时，这为开发可靠的Java应用程序提供了不同的方法。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "举例说明，Bean对象管理事务的会话Bean对象如何使用用户事务。若环境中安装了Java事务API的实现，可从相关位置获取用户事务接口。",
+        "original": "下面举例说明Bean对象管理事务的会话Bean对象如何使用用户事务：如果环境中安装了Java事务API的实现，可以从相关位置获取用户事务接口。",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "转换句式"
+        ],
+        "simplified_text": "Java应用程序现在能利用独立的Java事务API实现，这一实现基于Java事务API/XA的可靠性。",
+        "original": "现在有独立的Java事务API实现，这使得Java应用程序能利用Java事务API/XA的可靠性。",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "EJB组件通过EJB上下文的getUserTransaction方法获取用户事务接口，无需直接与事务管理器交互，依赖EJB服务器的事务处理。",
+        "original": "通过EJB上下文的getUserTransaction方法，EJB组件可以获取到用户事务接口，这样应用程序无需直接与事务管理器交互，而是依赖EJB服务器提供的事务处理。",
+        "version": 3,
+        "chunk_num": 2,
+        "type": "Wiki"
+    }
+]

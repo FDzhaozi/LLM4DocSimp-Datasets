@@ -1,0 +1,273 @@
+[
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "Joo Kyung有12年舞龄，多次获奖；GWon自小习舞，精通多种风格；Hee Joo是团队中最久练习的成员，舞蹈及多项才艺出众；U Jun嗓音独特；Moon Hee外表清新，表演充满活力。",
+        "original": "成员Joo Kyung(人名)有12年舞蹈经验，多次获奖；GWon(人名)自小学舞，擅长多种风格；Hee Joo(人名)是团队练习时间最长的成员，擅长舞蹈和多项才艺；U Jun(人名)g(人名)嗓音独特；Moon Hee(人名)外表清新，表演充满活力。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "组合"
+        ],
+        "simplified_text": "出道曲《My Oh My》由二段横踢、Tenzo和Tasco创作。这首歌曲描绘了少女对心仪之人的告白，轻快旋律和活泼节奏展现了myB的魅力。",
+        "original": "出道曲《My Oh My》由二段横踢和Tenzo(人名)与Tasco(人名)创作，歌曲描绘了少女对心仪之人的告白，旋律轻快，节奏活泼，展现了myB(机构名)的魅力。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "团名myB有‘你是我最好的’和‘我的宝贝’的意思，表达她们希望成为最佳的KPOP团体并被大众喜爱。",
+        "original": "团名myB(机构名)有“你是我最好的”和“我的宝贝”的意思，表达她们成为最佳KPOP(机构名)团体和被大众喜爱的愿望。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "Joo Kyung曾是JYP娱乐预备女团6mix的成员，因个人原因离开。Moon Hee和李娜恩曾是同在JYP娱乐的练习生，李娜恩现在是April成员。",
+        "original": "其中Joo Kyung(人名)曾为JYP娱乐(机构名)预备女团(女子团体)6mix(机构名)的成员，因个人原因离开公司，而Moon Hee(人名)曾和现在April(机构名)成员李娜恩(人名)同期间在JYP娱乐(机构名)当练习生。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "11月4日，官方发布了回归预告片。预告显示将于11月13日回归。此外，预告片融入了任天堂游戏玛利欧的风格，并暗示将有新成员加入。",
+        "original": "11月4日，官方发布回归预告片，预告将于11月13日回归，另外，预告中带有任天堂游戏玛利欧(人名)的风格，并隐约可见有新成员要加入。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "11月5日，官方发布了名为마이비(myB(人名)) - 마이버블(my Bubble)的影片，并宣布将有新成员加入。",
+        "original": "11月5日，官方发布名为마이비(myB(人名)) - 마이버블(my Bubble)的影片，正式宣布将有新成员加入。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "组合",
+            "调整语序"
+        ],
+        "simplified_text": "《또또(DDODDO)》与出道曲风格一致，由作曲家团队共青团和少先队及Tenzo&Tasco合作打造，是为myB量身定做的作品。它描绘了少女坠入爱河后的心情。MV中，myB伴随着活力四溢的音乐，在充满童趣的乐高场景中轻盈起舞，充分展现了青春与少女的魅力。",
+        "original": "《또또(DDODDO)》与出道曲相同，是由作曲家团队(共青团和少先队)两段横踢以及 Tenzo&Tasco(人名) 合作，为 myB(人名) 打造的作品，内容描述少女陷入爱情后的心情，MV中随着活力十足的歌曲旋律，myB(人名) 在充满童趣的乐高布置场景中，跳着轻快活泼的舞步，展现出青春和少女的魅力。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "MV减少了剧情和个人镜头。myB成员化身为小版女孩，在乐高和玩具布置的场景中跳舞，歌曲舞蹈动作的变化也清晰可见。",
+        "original": "MV减少了剧情和个人镜头，myB(机构名)成员变成了小版女孩，在用乐高和玩具布置的场景中跳舞，也能清楚看到歌曲舞蹈动作的变化。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "12月14日有消息称他们要解散。据韩国媒体报道，成员Moon Hee和Ha Yoon将加入Maroo娱乐公司，预计2017年出道的新女团。但此消息尚未得到公司确认。",
+        "original": "12月14日，有消息称他们要解散，据韩国(地名)媒体报道，成员Moon Hee(人名)和Ha Yoon(人名)将加入Maroo娱乐(机构名)公司预计在2017年出道的新女团(女子团体)，但这个消息还没得到公司确认。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "1月1日，myB所属的Maroo娱乐推出的新女团BONUSbaby成员包括Moon Hee和Ha Yoon，这证实了2016年年末的消息，同时也确认了myB已解散。",
+        "original": "1月1日，myB(机构名)所属的Maroo娱乐(机构名)推出的新女团(女子团体)BONUSbaby中包含了Moon Hee(人名)和Ha Yoon(人名)，证实了2016年年末的消息，也确定了myB(机构名)已经解散。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "Kyung跳了12年，多次获奖。GWon自小擅长多种舞蹈风格。Hee Joo练舞时间最长，跳舞和才艺都十分出众。Jun嗓音独特。Moon Hee外表清新，表演充满活力。",
+        "original": "Kyung跳了12年，多次获奖；GWon(人名)自小跳舞，擅长多种风格；Hee Joo(人名)练舞时间最长，跳舞和才艺出众；Jun嗓音独特；Moon Hee(人名)外表清新，表演充满活力。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "出道曲《My Oh My》由二段击、Tenzo和Tasco创作。这首歌是少女向心仪之人告白的，旋律轻快，节奏活泼。",
+        "original": "出道曲《My Oh My》由二段击(人名)、Tenzo(人名)和Tasco(人名)创作，歌曲是少女向心仪之人告白的，旋律轻快，节奏活泼。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "团名myB代表‘你是我最好的’和‘我的宝贝’，我们希望成为受大众喜爱的KPOP团体。",
+        "original": "团名myB意为‘你是我最好的’和‘我的宝贝’，希望成为受大众喜爱的KPOP团体。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "《또또(DDODDO)》与出道曲风格一致，由共青团、少先队和Tenzo&Tasco合作打造。这是myB量身定做的作品。",
+        "original": "《또또(DDODDO)》与出道曲风格一致，由作曲家团队(共青团和少先队)共青团(机构名)和少先队(机构名)及Tenzo&Tasco(机构名)合作打造，是为myB量身定做的作品。",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "MV中，myB在充满童真的乐高场景中随着活力四溢的音乐轻盈起舞，充分展现了青春与少女的魅力。",
+        "original": "MV中，myB伴随着活力四溢的音乐，在充满童真的乐高场景中轻盈起舞，充分展现了青春与少女的魅力。",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "myB(机构名)成员变成了小版女孩，在搭建的乐高积木玩具场所跳舞。歌曲和舞蹈动作变化明显。",
+        "original": "myB(机构名)成员变成了小版女孩，在乐高积木和玩具搭建的场所跳舞，歌曲和舞蹈动作的变化很明显。",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "韩国媒体报道，Moon Hee和Ha Yoon将加入Maroo娱乐公司，成为2017年开始活动的新女团成员。",
+        "original": "据韩国(地名)媒体报道，成员Moon Hee(人名)和Ha Yoon(人名)将加入Maroo娱乐(机构名)公司(机构名)，预计2017年开始活动的新女团(女子团体)。",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "1月1日，myB所属的Maroo娱乐推出的新女团BONUSbaby成员有Moon Hee和Ha Yoon。这证实了2016年底的消息，也确认了myB已解散。",
+        "original": "1月1日，myB(机构名)所属的Maroo娱乐(机构名)推出的新女团(女子团体)BONUSbaby成员包括Moon Hee(人名)和Ha Yoon(人名)，这证明了2016年年底的消息，同时也确认了myB(机构名)已解散。",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "Kyung跳了12年，多次获奖；GWon从小擅长多种舞蹈；Hee Joo跳舞时间长，舞技和才艺都很出众；Jun嗓音独特；Moon Hee外表清新，表演充满活力。",
+        "original": "Kyung(人名)跳了12年，多次获奖；GWon(人名)自小会跳多种舞蹈；Hee Joo(人名)跳舞时间长，跳舞和才艺都十分出众；Jun(人名)嗓音独特；Moon Hee(人名)外表清新，表演充满活力。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "她们各有特点，经过两年严格训练，于2015年8月25日出道。出道时发布了音乐集《心脏麻痹》和出道曲《My Oh My》，这三首歌分别由二段击、Tenzo和Tasco创作。",
+        "original": "她们各有特点，经过两年严格训练，2015年8月25日出道，发布了音乐集《心脏麻痹》及出道曲《My Oh My》，由二段击(人名)、Tenzo(人名)和Tasco(人名)创作。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "这首歌旋律轻松愉快，节奏活泼，是少女向心仪之人告白的歌曲。",
+        "original": "这首歌是少女向心仪之人告白的，旋律轻松愉快，节奏活泼。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "团名myB寓意‘你是我最好的’和‘我的宝贝’，我们期望成为大众喜爱的KPOP团体。",
+        "original": "团名myB代表‘你是我最好的’和‘我的宝贝’，我们希望成为受大众喜爱的KPOP团体。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "MV中myB在童真的乐高场景中跳舞，展现了少女恋爱的心情和青春的魅力。",
+        "original": "它描述了少女恋爱的心情，MV中myB(机构名)在童真的乐高场景中跳舞，展现了青春与少女的魅力。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "视频中减少了故事情节和个人拍摄画面。myB成员变成了小版女孩，在搭建的乐高玩具场所跳舞，歌曲与舞蹈动作变化显著。",
+        "original": "视频中减少了故事情节和个人拍摄画面，myB(机构名)成员变成了小版女孩，在搭建的乐高玩具场所跳舞，歌曲和舞蹈动作变化明显。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "韩国媒体报道Moon Hee和Ha Yoon将加入Maroo娱乐公司成为新女团成员，但公司尚未确认此消息。",
+        "original": "韩国(地名)媒体报道，Moon Hee(人名)和Ha Yoon(人名)要加入Maroo娱乐(机构名)公司(机构名)，成为新女团(女子团体)成员，但消息未获公司确认。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "Wiki"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "substitutions": {
+            "库": ""
+        },
+        "simplified_text": "所有基于G80及之后架构(框架结构)的民用和专业显卡或计算模块都支持CUDA(机构名)技术。以下是用C++从GPU的图像数组中获取纹理映射的示例：下面的例子是使用Python语言改写的。Python语言的相关信息来自PyCUDA。更多的Python语言矩阵乘法问题来自pycublas。",
+        "version": 2,
+        "original": "所有基于G80及之后架构(框架结构)的民用和专业显卡或计算模块都支持CUDA(机构名)技术。以下是用C++从GPU的图像数组中获取纹理映射的示例：下面的例子是使用Python语言改写的。Python语言的相关信息可以来自PyCUDA(人名)库。更多的Python语言矩阵乘法问题可以来自pycublas库。",
+        "chunk_num": 5,
+        "type": "Wiki"
+    },
+    {
+        "substitutions": {
+            "达": "的",
+            "较": "更",
+            "需": "需要",
+            "例": "例如",
+            "与": "和",
+            "被": "被",
+            "并": "并且",
+            "将": "将要",
+            "及": "以及"
+        },
+        "simplified_text": "NVIDIA推出的统一计算架构CUDA技术，是对通用计算GPU的正式名称。该产品支持GeForce 8系列及更新的GPU和较新的Quadro GPU进行计算，并首次允许GPU用作C编译器的开发环境。然而，NVIDIA在推广时经常将编译器和架构混合宣传，造成了一些混乱。实际上，CUDA可以与开放计算语言兼容或使用自家的C编译器。CUDA C语言和开放计算语言的指令最终会被驱动程序转换为PTX代码，由显卡核心计算。以GeForce 8800 GTX为例，其核心有128个核心处理器。CUDA技术可以将这些核心处理器连接起来，作为线程处理单元处理数据密集型计算。核心处理器可以交换、同步和共享数据。通过NVIDIA的C编译器和驱动程序，可以充分利用这些功能。CUDA技术还允许GeForce 8800 GTX显卡作为流处理器，让应用程序进行运算。GeForce 8800 GTX的计算能力可达520GFlops，使用SLI配置可达1TFlops。程序员在使用CUDA技术时需要区分三种存储器，并应对复杂的线程层次。这增加了开发难度，因为编译器难以自动完成任务。未来，G100显卡将采用第二代CUDA架构，旨在提高效率并降低开发难度。",
+        "version": 3,
+        "original": "NVIDIA推出的统一计算架构CUDA技术，是对通用计算GPU的正式名称。该产品支持GeForce 8系列及更新的GPU和较新的Quadro GPU进行计算，并首次允许GPU用作C编译器的开发环境。\n 然而，NVIDIA在推广时经常将编译器和架构混合宣传，造成了一些混乱。实际上，CUDA可以与开放计算语言兼容或使用自家的C编译器。CUDA C语言和开放计算语言的指令最终会被驱动程序转换为PTX代码，由显卡核心计算。\n 以GeForce 8800 GTX为例，其核心有128个核心处理器。CUDA技术可以将这些核心处理器连接起来，作为线程处理单元处理数据密集型计算。核心处理器可以交换、同步和共享数据。通过NVIDIA的C编译器和驱动程序，可以充分利用这些功能。CUDA技术还允许GeForce 8800 GTX显卡作为流处理器，让应用程序进行运算。GeForce 8800 GTX的计算能力可达520GFlops，使用SLI配置可达1TFlops。\n程序员在使用CUDA技术时需区分三种存储器，并应对复杂的线程层次。这增加了开发难度，因为编译器难以自动完成任务。未来，G100显卡将采用第二代CUDA架构，旨在提高效率并降低开发难度。",
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "substitutions": {
+            "达": "得",
+            "与": "和",
+            "并": "及",
+            "将": "要",
+            "仅": "只",
+            "及": "和"
+        },
+        "simplified_text": "一些软件厂商已使用CUDA技术开发了Adobe Premiere Pro的插件，这些插件能显著加速H.264/MPEG-4 AVC编码速度，速度可达只用CPU的7倍。NVIDIA通过收购AGEIA获得了PhysX物理加速技术，结合CUDA后，显卡拥有了物理加速芯片的功能。目前，所有GeForce 8系列显卡都支持CUDA。NVIDIA不再推出物理加速卡，显卡要替代这些产品。为了推广CUDA到民用，NVIDIA举办了编程比赛，鼓励开发者利用CUDA的潜力。微软是否能在Windows操作系统提供相应的编程接口，是GPGPU普及的关键。NVIDIA于2008年8月发布了CUDA 2.0，2010年3月22日发布了CUDA 3.0，这两个版本只支持Fermi架构及以后的版本。CUDA由NVIDIA提出并实现，它允许程序开发人员直接访问GPU的虚拟指令集和计算资源。使用CUDA技术，GPU不仅可以用于图形处理，还能进行通用处理，这种技术称为GPGPU。与擅长快速处理单个任务的CPU不同，GPU擅长同时进行大量任务。软件开发者可以通过CUDA加速库、OpenACC等编译器指令以及C、C++、Fortran等工业标准编程语言来扩展CUDA平台的使用。例如，C/C++开发者使用CUDA C/C++或NVIDIA的NVCC编译器，Fortran开发者使用CUDA Fortran或PGI公司的CUDA Fortran编译器进行编译。CUDA平台还支持其他计算接口，如Khronos Group的OpenCL、Microsoft的DirectCompute和C++AMP。其他语言如Python、Perl、Java、Ruby、Lua、Haskell、MATLAB、IDL及Mathematica也有原生支持。",
+        "version": 3,
+        "original": "一些软件厂商已使用CUDA技术开发了Adobe Premiere Pro的插件，这些插件能显著加速H.264/MPEG-4 AVC编码速度，速度可达仅用CPU的7倍。NVIDIA通过收购AGEIA获得了PhysX物理加速技术，结合CUDA后，显卡拥有了物理加速芯片的功能。\n   目前，所有GeForce 8系列显卡都支持CUDA。NVIDIA将不再推出物理加速卡，显卡将替代这些产品。为了推广CUDA到民用，NVIDIA举办了编程比赛，鼓励开发者利用CUDA的潜力。\n   微软是否能在Windows操作系统提供相应的编程接口，是GPGPU普及的关键。NVIDIA于2008年8月发布了CUDA 2.0，2010年3月22日发布了CUDA 3.0，这两个版本只支持Fermi架构及以后的版本。CUDA由NVIDIA提出并实现，它允许程序开发人员直接访问GPU的虚拟指令集和计算资源。\n使用CUDA技术，GPU不仅可以用于图形处理，还能进行通用处理，这种技术称为GPGPU。与擅长快速处理单个任务的CPU不同，GPU擅长同时进行大量任务。\n 软件开发者可以通过CUDA加速库、OpenACC等编译器指令以及C、C++、Fortran等工业标准编程语言来扩展CUDA平台的使用。例如，C/C++开发者使用CUDA C/C++或NVIDIA的NVCC编译器，Fortran开发者使用CUDA Fortran或PGI公司的CUDA Fortran编译器进行编译。\n CUDA平台还支持其他计算接口，如Khronos Group的OpenCL、Microsoft的DirectCompute和C++AMP。其他语言如Python、Perl、Java、Ruby、Lua、Haskell、MATLAB、IDL及Mathematica也有原生支持。",
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "substitutions": {
+            "与": "及",
+            "将": "后",
+            "及": "和",
+            "并": "及"
+        },
+        "simplified_text": "在电脑游戏行业，GPU不仅用于图形渲染，还用于物理运算，如PhysX和Bullet。在计算生物学和密码学等非图形应用中，CUDA的加速效果非常明显，效果可以用数量大小来衡量。\n计算平台提供了基础和高级API。CUDA（机构名）软件开发包首次于2007年2月15日发布，支持Windows和Linux系统。后来，第二版增加了对苹果操作系统的支持，并替换了2008年2月14日发布的测试版。\n所有G8x系列及以后的NVIDIA（机构名）图形处理单元都支持CUDA（机构名）技术，包括GeForce、Quadro和Tesla系列。CUDA（机构名）及大多数标准操作系统兼容。Nvidia宣布，G8x系列开发的程序具有二进制兼容性，未来将能在所有Nvidia显卡上直接运行，无需修改。\nCUDA（机构名）技术配合MediaCoder等软件，能加速高清视频编码，这在GPU上进行传统通用计算时特别明显。同样，在视频解码方面，CUDA（机构名）技术也有应用。此前，NVIDIA（机构名）的显示核心已集成PureVideo单元。然而，微软（机构名）的DXVA视频加速API有时会有加速失效问题。因此，使用CoreAVC和CUDA（机构名）可以在显示核心上实现软件解码，解决兼容性问题。",
+        "version": 3,
+        "original": "在电脑游戏行业，GPU不仅用于图形渲染，还用于物理运算，如PhysX和Bullet。在计算生物学和密码学等非图形应用中，CUDA的加速效果非常明显，效果可以用数量大小来衡量。\n计算平台提供了基础和高级API。CUDA（机构名）软件开发包首次于2007年2月15日发布，支持Windows和Linux系统。后来，第二版增加了对苹果操作系统的支持，并替换了2008年2月14日发布的测试版。\n  所有G8x系列及以后的NVIDIA（机构名）图形处理单元都支持CUDA（机构名）技术，包括GeForce、Quadro和Tesla系列。CUDA（机构名）与大多数标准操作系统兼容。Nvidia宣布，G8x系列开发的程序具有二进制兼容性，未来将能在所有Nvidia显卡上直接运行，无需修改。\n  CUDA（机构名）技术配合MediaCoder等软件，能加速高清视频编码，这在GPU上进行传统通用计算时特别明显。同样，在视频解码方面，CUDA（机构名）技术也有应用。此前，NVIDIA（机构名）的显示核心已集成PureVideo单元。然而，微软（机构名）的DXVA视频加速API有时会有加速失效问题。因此，使用CoreAVC和CUDA（机构名）可以在显示核心上实现软件解码，解决兼容性问题。",
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "substitutions": {
+            "及": "之后"
+        },
+        "simplified_text": "此外，配合适当的引擎，显示核心还可以进行光线追踪计算。NVIDIA（机构名）推出的Optix光线追踪引擎，正是通过CUDA（机构名）技术利用GPU进行光线追踪。\n所有基于G80及之后架构的民用和专业显卡或计算模块都支持CUDA技术。以下是用C++从GPU图像数组获取纹理映射的示例，该例子是用Python语言改写的。Python语言的相关信息来自PyCUDA。更多的Python语言矩阵乘法问题来自pycublas。",
+        "version": 3,
+        "original": "此外，配合适当的引擎，显示核心还可以进行光线追踪计算。NVIDIA（机构名）推出的Optix光线追踪引擎，正是通过CUDA（机构名）技术利用GPU进行光线追踪。\n所有基于G80及之后架构的民用和专业显卡或计算模块都支持CUDA技术。以下是用C++从GPU图像数组获取纹理映射的示例，该例子是用Python语言改写的。Python语言的相关信息来自PyCUDA。更多的Python语言矩阵乘法问题来自pycublas。",
+        "chunk_num": 4,
+        "type": "Wiki"
+    }
+]

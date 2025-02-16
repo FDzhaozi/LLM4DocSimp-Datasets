@@ -1,0 +1,390 @@
+[
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "电影《画皮》将于9月26日上映，昨日在广州举行了全球公映礼。赵薇在片中扮演的角色被誉为‘中国传统女性’的典范，她也出席了活动。",
+        "original": "即将于9月26日上映的电影《画皮(机构名)》昨日在广州(地名)举行了隆重的全球公映礼，在片中角色被誉为“中国(中华人民共和国)传统女性”典范的赵薇(人名)(听歌)也来了。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "在活动开始前，《羊城晚报》的记者与赵薇在她的房间——更具体是浴室里——进行了大约半小时的交谈，当时赵薇正在接受化妆。",
+        "original": "活动开始之前，《羊城晚报(机构名)》记者在赵薇(人名)的房间———确切地说是浴室———跟正在“被化妆”的赵薇(人名)聊了大半个小时。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "她什么都聊，甚至回应了最近沸沸扬扬的“黄晓明(人名)(听歌)暗恋赵薇(人名)”事件。",
+        "original": "她什么都聊，甚至回应了最近被传得沸沸扬扬的“黄晓明(人名)(听歌)暗恋赵薇(人名)”事件。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "她渴望更悠闲的生活和更丰富的角色，但明白应感到满足。她想，或许生活本就如此，人们常幻想别样生活更美好，而那不过是幻想罢了。",
+        "original": "她希望自己的生活能更悠闲，角色能更丰富，但她也清楚地知道自己应该满足：“也许生活本来就是这样的，你老是幻想另外一种生活会更好，但其实那只是你的幻想。”",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "羊城晚报提到，《画皮》中你饰演的夫人角色，非常贤惠、温柔且稳重，这与你以往的角色有很大不同。",
+        "original": "羊城晚报(机构名)：《画皮(机构名)》里你演的那个夫人，非常贤惠温柔稳重，这跟以往你的角色很不同。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "陈嘉上导演刚开始‘诱惑’我演这个戏时，是这么说的：“这是你颠覆自己的彻底机会。”",
+        "original": "陈嘉上(人名)导演刚开始“诱惑”我演这个戏时，是这么说的：“这是你彻底颠覆自己的机会。”",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "陈坤(人名)(听歌)在跟我对戏时吓了一跳，说：“你真的像个夫人了。”",
+        "original": "陈坤(人名)(听歌)跟我对戏时都吓了一跳，他说：“你真的像个夫人了。”",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "我个性中有非常强烈和非常火热的东西，尽管角色本身的经历很痛苦，我必须得压制住。",
+        "original": "角色本身的经历就很痛苦，但是我个性中有非常强烈和非常火热的东西，我必须得压制住。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "导演之前跟我说，我可能要演的角色是最难的，但我没预料到竟然这么难。",
+        "original": "导演之前就跟我说，你的角色可能是最难演的，但我没想到会这么难演。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "赵薇提到一场戏，是她向周迅道歉，台词仅是“对不起”。",
+        "original": "赵薇(人名)提到，有一场戏是她向周迅(人名)道歉，她的台词只有“对不起”。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "刚开始演的时候，说实话，我感到这个角色有点像“小燕子(人名)”，担忧拍出来会有雷同感。",
+        "original": "说实话，刚开始演的时候，我自己都觉得这个角色有点像“小燕子(人名)”，有点担心拍出来感觉雷同。",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序",
+            "拆分"
+        ],
+        "simplified_text": "拍戏时，我虽播下种子，却未知土壤与天气如何，导致最终结果与起初预想不尽相同。",
+        "original": "拍戏就是这样的，我刚开始播下了种子，但是我不知道遇到的是什么土壤，什么天气，因此最后看到的结果跟我一开始想的不完全一样。",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "这个角色非常憨厚善良，简直像活菩萨，而小燕子(人名)则爱耍小聪明。",
+        "original": "这个角色实际上是非常憨厚善良的，简直像个活菩萨一样，而小燕子(人名)却是个爱耍点小聪明的人。",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "本报李丽(人名)、黄辰星(人名)记者报道，电影《画皮(机构名)》将于9月26日上映，此前一日，在广州(地名)举行了全球首映礼。",
+        "original": "本报记者李丽(人名)、黄辰星(人名)报道，电影《画皮(机构名)》将在9月26日开始放映，前一天在广州(地名)举办了全球首映礼。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "赵薇在影片中扮演的角色被称赞为中国的传统女性代表，她本人也出席了此次活动。",
+        "original": "赵薇(人名)在影片中扮演的角色被称赞为中国(中华人民共和国)传统女性的代表，她也参加了这次活动。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "活动前夕，《羊城晚报》的记者在赵薇的房间——更具体是在浴室里——与她进行了半小时左右的对话。对话时，赵薇正在化妆。",
+        "original": "活动前夕，《羊城晚报(机构名)》的记者在赵薇(人名)的房间——确切地说是在浴室里——和她进行了约半小时的对话，当时赵薇(人名)正在化妆。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "她意识到应该知足，同时向往更轻松的生活和更多样的角色。",
+        "original": "她向往更轻松的生活和更多样的角色，同时也意识到应该知足。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "她思考，人们常憧憬不同的生活方式更美好，但那些往往只是幻想，或许生活就是这样。",
+        "original": "她思考，生活或许就是这样，人们常憧憬不同的生活方式更美好，但那些往往只是幻想。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序",
+            "拆分"
+        ],
+        "simplified_text": "《画皮》是三部作品之一。羊城晚报指出，你在其中扮演的夫人角色贤淑、温柔且持重，这与你以往的角色有所不同。",
+        "original": "【三部作品】《画皮(机构名)》：这可以算是我的“转变”羊城晚报(机构名)指出，在《画皮(机构名)》里，你扮演的夫人角色十分贤淑、温柔且持重，这和你过去的角色有很大差异。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "陈嘉上导演一开始吸引我接这个角色时，这么说：“这是你彻底改变自己的机会。”",
+        "original": "陈嘉上(人名)导演一开始‘吸引’我接这个角色时，是这么说的：“这是你彻底改变自己的机会。”",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "我觉着这很罕见，因为通常在其他剧中，若有类似角色，导演首先考虑的会是其他演员，而非我。",
+        "original": "我觉得这很难得，因为在其他剧里如果有这样的角色，导演通常会先想到别的演员，而不是我。",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "转换句式"
+        ],
+        "simplified_text": "羊城晚报询问：该角色与您个性多有不同，在塑造过程中是否感到艰难？",
+        "original": "羊城晚报(机构名)：这个角色和你的个性有很多不一样的地方，塑造的过程中会不会觉得很辛苦？",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "我个性里有很强和很热情的一面，尽管角色本身经历很苦，但我必须控制自己。",
+        "original": "我个性里有很强和很热情的一面，虽然角色本身经历很苦，但我必须控制自己。",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "刚开始演戏的时候，我坦白说感到这个角色有点像“小燕子(人名)”，担心会和以前一样拍出来。",
+        "original": "刚开始演戏的时候，说实话，我感到这个角色有点像“小燕子(人名)”，担心拍出来会和以前一样。",
+        "version": 2,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "拍戏时，我有了初步的想法，但因不了解实际环境和情况，最终结果与最初想法有所差异。",
+        "original": "拍戏时，我虽然有了初步的想法，但不知道实际环境和情况会怎样，所以最后的结果和最开始想的不太一样。",
+        "version": 2,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序",
+            "拆分"
+        ],
+        "simplified_text": "《羊城晚报》记者在首映前一晚，于赵薇住的酒店房间，特别是在浴室区域，与她进行了约半小时的交谈。当时，赵薇正在化妆。",
+        "original": "首映前一晚，《羊城晚报(机构名)》记者在赵薇(人名)住的酒店房间——特别是浴室那边——跟她聊了约半小时，当时赵薇(人名)正在化妆。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "聊天时，赵薇坦诚相对，不回避最近热议的“黄晓明暗恋赵薇”话题。",
+        "original": "聊天时，赵薇(人名)坦诚相对，不逃避最近讨论热烈的\"黄晓明(人名)暗恋赵薇(人名)\"话题。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "赵薇现在看起来更平和真实，她懂得珍惜现在，向往更自由的生活和更多样化的表演角色。",
+        "original": "赵薇(人名)现在看起来更平和和真实，她懂得要珍惜现在，并向往更自由的生活和更多样的表演角色。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "她反思说，虽然人们常认为不同的生活方式更加美好，但这往往是理想化的；生活本身就包含了多种形态。",
+        "original": "她反思说，人们常觉得不同的生活方式更美好，但这通常是理想化的，生活本身包括了各种样子。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "在《画皮》中，你饰演的夫人贤惠、温柔且稳重，这一角色与你以往的电影形象有所不同，是你特别渴望尝试的转变吗？",
+        "original": "在《画皮》里，你演的夫人既贤惠、温柔又稳重，这个角色跟你以前的电影形象不同，是你特别想尝试的转变吗？",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "陈坤(人名)惊讶地说，当和她演对手戏时：“你看起来真像个高贵的女士了。",
+        "original": "陈坤(人名)和她演对手戏时惊讶地说：\"你看起来真像个高贵的女士了。",
+        "version": 3,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "赵薇(人名)觉得自己长相端正，但她以前喜欢扮演活泼的角色，这次的形象让她显得比较固定，不太能展现出轻松的样子。",
+        "original": "\"赵薇(人名)觉得自己长相端正，但以前喜欢活泼的角色，这次的形象让她显得固定，不太能显示出轻松的样子。",
+        "version": 3,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "羊城晚报询问她，这个角色与自己的性格相差很大，是否很难演绎。赵薇回答说：“非常辛苦！”",
+        "original": "羊城晚报(机构名)问她这个角色和自己性格差很多，是不是很难演，赵薇(人名)回答：\"非常辛苦！",
+        "version": 3,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "导演提前告诉我这角色可能最难，但很多时候我几乎没说话的机会，实际上它更难。",
+        "original": "很多时候我几乎没说话的机会，导演提前告诉我这角色可能最难，但实际上更难。",
+        "version": 3,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "赵薇提到一个场景，场景中她向周迅道歉，对白简短：“对不起。”",
+        "original": "赵薇(人名)提到了一个场景，是她向周迅(人名)道歉，对白很简单，就是“对不起”。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "摄影师理解了她满溢的情感，幸运地建议给她两小时，用一个镜头完成整个场景的拍摄。",
+        "original": "幸运的是，摄影师理解了她满溢的情感，建议给她两小时，用一个镜头完成整个场景的拍摄。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "赵薇对此十分感激，因为对演员来说，调控情感并不容易，并非随时都能控制。",
+        "original": "对此，赵薇(人名)十分感激，因为演员调控情感并不容易，不是说控制就能控制的。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "初表演时，她对角色有个大致构想，但因未完全把握情境，最终塑造的角色与最初想法略有差异。",
+        "original": "表演初时，她对角色有个大致构想，不过由于未完全把握情境，最终塑造的角色与最初想法略有差异。",
+        "version": 3,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    }
+]

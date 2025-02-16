@@ -1,0 +1,107 @@
+[
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "另一边的兔子脚印还有一串狐狸留下的脚印，只是这狐狸是向后跑的。",
+        "original": "而兔子脚印的另一边还有一串脚印，那是狐狸留下的，只不过这只狐狸是向后跑的。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "在兔子脚印消失的地方，留下一个乱糟糟的雪窝。四面有光滑的痕迹，像手指头抹过。",
+        "original": "在兔子脚印消失的地方，留下一个乱糟糟的雪窝，四面有一条条光滑的痕迹，仿佛是人用手指头抹过似的。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "狐狸追踪新鲜脚印，转弯从侧面跑。跑着跑着，脚印突然消失了，不知该往哪追了。",
+        "original": "狐狸追踪新鲜脚印，转弯，从侧面跑着追，追着跑着，突然脚印消失了，这下不知往哪追了。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "它走着走着，发现兔子在骗它，引它上当。它不知道该往哪里找兔子！",
+        "original": "它走着，走着，发现兔子在欺骗它，引它上当，它不知道该往哪个方向才能找到兔子！",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "事情是这样的：兔子先沿着同一串脚印走了两次，一次向前，一次踩着脚印往回走。",
+        "original": "事情就是这样：兔子在同一串脚印上走了两次，向前走一次，又踩着自己的脚印往回走一次。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "兔子能跳着跑，跳得很远。跑的时候后脚紧接着前脚，留下的脚印像飞奔一样。",
+        "original": "兔子能跳着跑，能跳得很远，它跳着跑的时候，后脚一下下都到前脚，这时候留下的脚印就是飞奔的脚印。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "大雕一见是兔子，立刻飞起追上。它用铁钩般的利爪钩住兔子的脊背！",
+        "original": "大雕一见是兔子，马上飞起，追上兔子；一追上，就用它那双铁钩般的利爪去钩兔子脊背！",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "大雕翅膀每一下拂扇，都在雪地上留下痕迹，那些痕迹光滑得像抹过油一样。",
+        "original": "大雕翅膀每一下拂扇，都在雪地上留下痕迹，那些痕迹就都像用手指头抹过油般的光滑。",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "右边有另一种野兽的脚印，比前面的大些。雪地上有它尖锐爪子留下的深印，那是狐狸的脚印。",
+        "original": "右边是另一种野兽的脚印，稍大，雪地有它尖锐爪子留下的深印，那是狐狸的脚印。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "右边有狐狸的脚印。比兔子的大，尖锐的爪子留下的深印清晰可见。",
+        "original": "右边有另一种野兽的脚印，比兔子的大些，是狐狸的脚印，尖锐爪子留下的深印清晰可见。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "HighSchool"
+    }
+]

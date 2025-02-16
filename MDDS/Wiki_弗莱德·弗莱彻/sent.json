@@ -1,0 +1,67 @@
+[
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "见习官弗莱彻曾在单杆战船图斯卡罗拉号（USS Tuscarora）服役。1876年7月，他正式成为少尉军官。此后，他还依次在普兹茅斯号（USS Portsmouth）、普利茅斯号（USS Plymouth）、拉克瓦纳号（USS Lackawanna）、星座号（USS Constellation）和提康德罗加号（USS Ticonderoga）服役。",
+        "original": "见习官弗莱彻(人名)首先在单杆战船图斯卡罗拉号（USS Tuscarora）服役，1876年7月正式任少尉军官后，先后在单杆战船普兹茅斯号（USS Portsmouth），普利茅斯号（USS Plymouth），拉克瓦纳号（USS Lackawanna），星座号（USS Constellation），与提康德罗加号（USS Ticonderoga）服役。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "他开发的快速射击装置提高了速射炮的射速。从1890年起，美国海军开始装备信号灯。",
+        "original": "他开发的快速射击装置能显著提高速射炮的射速；从1890年开始，美国(地名)海军(机构名)装备了信号灯。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "他还制定了美国海军第一套鱼雷战术指导。因此，1892年，弗莱彻上尉被任命为美国第一艘鱼雷艇库欣号（USS Cushing，TB-1）的舰长。",
+        "original": "此外，他还制定了美国(地名)海军(机构名)第一套鱼雷战术指导，因此1892年，弗莱彻(人名)上尉被任命为美国(地名)第一艘鱼雷艇库欣号（USS Cushing，TB-1）的舰长。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "1908年，他从海军学院毕业，后被派至高级将领会议服务。5月升任上校，9月至1910年3月担任佛蒙特号战舰舰长。随后，他成为美国海军部部长的助手并晋升为少将。",
+        "original": "1908年从海军学院结业后，被派至高级将领会议服务，5月升为上校，9月至1910年3月担任佛蒙特号战舰舰长，之后担任美国(地名)海军部长(机构名)助手并晋升为少将。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "组合"
+        ],
+        "simplified_text": "此后，他在普兹茅斯号（USS Portsmouth）、普利茅斯号（USS Plymouth）、拉克瓦纳号（USS Lackawanna）、星座号（USS Constellation）和提康德罗加号（USS Ticonderoga）等舰船上服役。",
+        "original": "此后，他分别在普兹茅斯号（USS Portsmouth）、普利茅斯号（USS Plymouth）、拉克瓦纳号（USS Lackawanna）、星座号（USS Constellation）和提康德罗加号（USS Ticonderoga）服役。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "调整语序",
+            "拆分"
+        ],
+        "simplified_text": "4月21日，弗莱彻将军的舰队护送海军陆战队在维拉克鲁兹登陆。经过两天战斗，占领了该城，并因此获得国会荣誉勋章。这勋章表彰了他在战斗中的卓越领导。",
+        "original": "4月21日，弗莱彻(人名)将军的舰队护送海军陆战队在维拉克鲁兹(地名)登陆，两天战斗后占领该城，因此获得国会荣誉勋章，以表彰他在战斗中的卓越领导。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "Wiki"
+    }
+]

@@ -1,0 +1,11 @@
+AMD Steamroller
+Steamroller微架构，超微在发布AMD Bulldozer微架构时表示Bulldozer架构实现“一年一改进”，2011年发布首代Bulldozer架构，2012年发布第二代『增强型』Bulldozer架构（即Piledriver架构），2013年/2014年推出第三代Bulldozer架构（即Steamroller架构），2015年/2016年推出第四代Bulldozer架构（即Excavator架构）。
+在2011年超微半导体已经提及到2013年第三代基于Bulldozer架构改进的新微架构以及其产品线， 并称之为“下世代Bulldozer”，使用28纳米制程。2011年9月21日，从超微官方泄漏的消息显示这个使用28纳米制程的“下世代Bulldozer”的微架构代号是“Steamroller”（中文：AMD 压路机）。Steamroller对于前一代AMD Piledriver微架构的主要改进在于线程的并行性。基于AMD Steamroller微架构的处理器首发产品和目前的AMD Piledriver的一样，是基于新微架构的AMD Fusion A系列APU，包括行动版本和桌上型版本，核心代号“Kaveri”。预计2013年发布,已延后为2014年发布。
+＊＊＊＊Steamroller改变的是CPU中除法器（Divider）单元的设计 。 David M. Russinoff参与了Llano APU的设计，其DIV单元与前代K10没有DIV硬件支持的设计有所不同，推土机继承了K10的设计，FMAC（浮点累积乘单元）中的除法器功能有限。 现在Steamroller的设计类似Llano，当然不会是100%相同，因为它使用的是radix-8而非Llano的radix-4，每周期执行的指令数从2条​​提高到了3条。
+
+对比Intel的前进的步伐，AMD其实还是慢了许多，因为Intel早在酷睿时代的Penryn架构上就已经采用radix-16除法器了，每周期指令数从原来的2条一下子提高到4条，数据延迟更低，浮点单​​元以及整数单元都可以从中受益。＊＊＊
+在2014年的AMD路线图上，超微半导体表示『Excavator』（正体中文翻译“挖掘机”）将会是第四代Bulldozer架构的代号，计划2015年发布。和Piledriver、Steamroller一样，首发产品仍然是A系列Fusion APU，将于2015年推出移动版；接著，AMD将放弃模块化设计，采用14/16nm finfet重新设计采用SMT多线程设计的处理器，代号“Zen”。
+AMD 于新加坡 Future of Compute 宣布 2015年行动蓝图，将以首款主打高效能的 SoC Carrizo 以及主流级的 Carrizo-L 两款 APU 做为主力，将目标集中在跨游戏、生产力应用与 4K 体验提供解决方案；Carrizo 将导入全新的 x86 架构核心 Excavator 以及次代 Radeon GPU 架构，并且具备 HSA 1.0 异质运算技术，也同时支援微软的 Windows 10。Carrizo APU 确定支持DirectX 12，而且是完全的Feature Level 12.0。
+
+AMD正在研发全新的x86 CPU架构，代号为“Zen”瑞典网站SweClockers号称得到可靠消息，公布了Zen的多个细节，是和Intel类似的同步多线程(SMT)技术，要等到2016年第三季度推出。AMD自主研发的ARM架构“K12”也将在2016年诞生。Zen、K12虽然一个是x86、一个是ARM，但是将会共享封装接口“Socket AM4”，即彼此针脚兼容，可以互换。
+

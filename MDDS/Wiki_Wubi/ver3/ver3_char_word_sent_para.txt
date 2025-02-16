@@ -1,0 +1,12 @@
+## Wubi简介
+
+Wubi是Ubuntu的安装程序，基于通用公共许可证，由Ubuntu官方支持。它允许Windows用户在无需重新分区的情况下安装Ubuntu。Wubi不是操作系统版本，而是在Windows中创建独立安装。Ubuntu安装在一个文件中，而非单独分区。Wubi将在未来停止支持。开发团队由Agostino Russo、Geza Kovacs、Oliver Mattos及Ecology2007等构成，开发工作在Launchpad上进行。
+
+## Ubuntu软件功能发展历程
+
+该软件原定于Ubuntu 7.10中推出，但未按时完成。Gutsy系统的启动盘包含wubi-cdboot.exe文件，支持从CD启动和安装Ubuntu，但需先分区。测试版本中，软件可单独下载。7.10版本因测试安装错误未包含该软件，但最新版（rev386）已修复此问题。此错误影响7.10开发，导致测试版中未出现该软件，而8.04开发已开始。8.04测试版中，软件可用并包含在Ubuntu 8.04 Alpha 5中。软件在32位和64位系统下均可用。目前，仅32位Ubuntu版本得到官方支持。最新测试版新增64位Ubuntu安装功能。
+
+## Lupin项目的开发历程
+
+Agostino Russo的Lupin项目源于Topologilinux和Instlux两个项目，旨在通过Windows安装程序在虚拟设备中安装Ubuntu。Geza Kovacs制定了项目规范并提供了原型，证明其可行性。Oliver Mattos开发了用户界面。Agostino Russo进一步定义了虚拟设备安装的概念，推动了Lupin项目的诞生。项目代码主要由Agostino Russo编写，并在Geza Kovacs协助下完成。Agostino Russo与Ecology2007重构了Windows前端程序。Hampus Wessman提供了下载器和翻译脚本。Bean123和Tinybit协助调试和修复启动加载程序问题。Lubi和LVPM由Geza Kovacs创建。
+

@@ -1,0 +1,407 @@
+[
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "下雨天让人心静，充满诗意。夏天尤其如此，雨中睡个长长的午觉特别舒服。你会这样回答：“喜欢。”",
+        "original": "你会回答说：“喜欢，下雨天充满诗意，让人心静，尤其是夏天，雨天里睡个长长的午觉多舒服。”",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "你也许会补充说，别下得太久。那种黄梅天，到处湿漉漉的，闷得让人喘不过气来。",
+        "original": "可是你也许会补充说：“但别下得太久，像那种黄梅天，到处湿漉漉的，闷得让人喘不过气来。”",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "我从未抱怨雨天。不论雨下了十天、半月，甚至一个月，屋子里湿衣服挂满如万国旗，墙壁地板冒湿气，我都不抱怨。",
+        "original": "我从来没有抱怨过雨天，雨下了十天、半月，甚至一个月，屋子里挂满万国旗似的湿衣服，墙壁地板都冒着湿气，我也不抱怨。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "我爱雨，不是为了遮雨或听雨声，只是喜欢那连续不断的雨天。",
+        "original": "我爱雨不是为了可以撑把伞遮雨，听伞背滴答的雨声，就只是为了喜欢那下不完雨的雨天。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "我说不明白为什么，雨天总让我感觉像是到了另一个地方，远离这个混乱的世界。",
+        "original": "为什么，我说不明白，好像雨天总是把我带到另一个处所，离这混乱的世界很远很远。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "在那儿，我又重享了童年的欢乐，见到了亲人和朋友，游历了心中念念不忘的美好地方。",
+        "original": "在那儿，我又可以重享欢乐的童年，会到了亲人和朋友，游遍了魂牵梦萦的好地方。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "这是我幸福的时光。我不愿再睡，也不让母亲睡。我闹着要她讲故事。",
+        "original": "这一会儿是我最幸福的时光，我既不舍得再睡，也不让母亲睡，闹着让她讲故事。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "瞎子到家说伞是他的，请邻居评理。他说伞骨是用麻线绑的，伞柄有个洞。",
+        "original": "瞎子到家说伞是他的，还请邻居评理，说他伞的伞骨是用麻线绑的，伞柄有个洞。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "母亲解释说，伞主给伞并不是因为坏，而是因为穷。伞主是个好心人，他认为应该给他伞。",
+        "original": "母亲说不是坏，是穷，伞主想他该有伞，才把伞给他的，伞主是个好心人。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "在微弱的晨光中，我看到母亲的脸。她的额头方正，眉毛细长，眼睛皱着。",
+        "original": "在微弱的晨光中，我看着母亲的脸，她的额头方正，眉毛细长，眼睛皱成一条线。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "我把阿荣伯雕的小木船放在水沟里，旁边放着母亲缝的大红布娃娃。",
+        "original": "我把阿荣伯(人名)给我雕的小木船放在水沟里，中间放着母亲给我缝的大红布娃娃。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "我抱起小花猫，和阿荣伯一起坐着。等阿荣伯把香脆的炸胡豆剥壳喂我，吃完胡豆再吃芝麻糖，喝橘子解渴。",
+        "original": "我把小花猫抱在怀里，自己再坐在阿荣伯(人名)怀里，等着阿荣伯(人名)把一粒粒又香又脆的炸胡豆剥了壳送到我嘴里，胡豆吃够了再吃芝麻糖，嘴巴干了吃橘子。",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "老师叫我写大字，阿荣伯便去告诉：‘小春肚子痛，喝了午时茶已睡觉。’",
+        "original": "老师喊我去写大字，阿荣伯(人名)就会去告诉他：‘小春(人名)肚子痛，喝了午时茶睡觉了。’",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "下雨天，唱鼓儿词的人从我家后门悄悄进来，坐在厨房长凳上。他咚咚咚地敲鼓，唱秦雪梅和郑元和的故事。",
+        "original": "唱鼓儿词的人在下雨天悄悄从我家后门进来，坐在厨房的长凳上，咚咚咚地敲鼓，唱秦雪梅(人名)吊孝和郑元和(人名)学丐。",
+        "version": 1,
+        "chunk_num": 6,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "母亲做饭时流泪湿了脸颊，擦干后给瞎子先生盛了碗白米饭，还送了他一包米。",
+        "original": "母亲一边做饭，一边听，泪水湿了脸颊，擦了擦又盛了一大碗白米饭给瞎子先生，还给了他一包米。",
+        "version": 1,
+        "chunk_num": 6,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "母亲皱眉看着走廊下堆满的谷子，担心几日不晾晒谷子会发霉。谷子发霉后会出现一粒粒绿色的霉点。",
+        "original": "母亲皱紧了眉头，对着走廊下堆积如山的谷子发愁，几天不晾就会发霉，谷子的霉是一粒粒绿色的霉点。",
+        "version": 1,
+        "chunk_num": 7,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "这工作有趣，我希望天一直不下雨。这样霉点会多，我就能每天在谷里挑霉点，不用读书。",
+        "original": "这工作很有趣，所以我希望天一直不要晴，霉点会越来越多，我就可以每天在谷子里挑霉点，不用读书了。",
+        "version": 1,
+        "chunk_num": 7,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "一直送到校门口和教学楼门口，下雨天体育课改在健身房玩球，无需换运动服。",
+        "original": "一直送到校门口和教学楼门口，下雨天不用在大操场上上体育课，改在健身房玩球，也不必换运动服。",
+        "version": 1,
+        "chunk_num": 8,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "水泥路从教室一直延伸到健身房后面，路两边是绿油油的冬青和草坪。",
+        "original": "从教室到健身房有一段长长的水泥路，两边是绿油油的冬青和草坪，一直延伸到健身房后面。",
+        "version": 1,
+        "chunk_num": 8,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "我站在法国梧桐树下，叶子尖上的水珠落在伞背上。这让我感到凄凉寂寞，因为我想念远在故乡的母亲。",
+        "original": "我站在法国(地名)梧桐树下，叶子尖上的水珠落在伞背上，我心里有一股凄凉寂寞之感，因为我想念远在故乡的母亲。",
+        "version": 1,
+        "chunk_num": 8,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "幼年时，只有雨天，我才有更多时间陪她，雨让我感到更靠近母亲。",
+        "original": "因为在幼年时，只有雨天里，我就有更多的时间陪着她，雨给我一份靠近母亲的感觉。",
+        "version": 1,
+        "chunk_num": 8,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "我可以出去看电影，请同学来家。上三层楼胡闹，进储藏室偷吃蜜饯枣和巧克力糖。在厨房，我跟着胖子老刘炸菜，菜炸好了我先吃。",
+        "original": "我可以溜出去看电影，请同学来家，上三层楼‘胡闹’，进储藏室偷吃蜜饯枣和巧克力糖，在厨房跟着胖子老刘(人名)炸香气扑鼻的菜，炸好了一定我先吃。",
+        "version": 1,
+        "chunk_num": 9,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "那一年我回到故乡，坐在父亲的书房里。墙上‘听雨楼’三个字是我用松树皮拼成的。",
+        "original": "那一年回到故乡，坐在父亲的书房里，墙上‘听雨楼’三个字是我用松树皮拼成的。",
+        "version": 1,
+        "chunk_num": 10,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "我学着父亲的调子大声吟诵从书架中拿出的白香山诗，父亲的身影在摇曳的豆油灯光中显现。",
+        "original": "我在书架中拿出一本白香山诗，学着父亲的调子大声吟诵，父亲的身影，在摇曳的豆油灯光中浮现。",
+        "version": 1,
+        "chunk_num": 10,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "他的病情日渐加重。在淅沥的风雨中，他吟诗的声音越来越低，直至我再也听不见，永远消失在耳畔。",
+        "original": "可是他的病一天天加重了，在淅沥的风雨中，他吟诗的声音越来越低，我终于听不见了，永远听不见了。",
+        "version": 1,
+        "chunk_num": 10,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "宋朝进士林和靖隐居乡野，与梅鹤为伴。范仲淹曾赞他心高如月，千金不换。",
+        "original": "这位宋朝的进士林和靖，与梅鹤为伴，终身隐居乡野，范仲淹曾赞他‘一片心高与月徘徊，不为千金下钓台。",
+        "version": 1,
+        "chunk_num": 11,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "我凝视着湖面上倾斜的梅花，却听得放鹤亭中响起了悠扬的笛声。",
+        "original": "我凝视着碧蓝如玉的湖面上，倾斜的梅花，却听得放鹤亭中，响起了悠扬的笛声。",
+        "version": 1,
+        "chunk_num": 11,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "我不明白为什么，雨中总让我觉得像是到了另一个世界，远离了这个混乱的世界。",
+        "original": "我说不明白为什么，雨里总让我感觉像是到了另一个地方，远离这个混乱的世界。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "我把母亲缝的大红布娃娃和阿荣伯刻的小木船一起放在水沟里。",
+        "original": "我把阿荣伯(人名)刻的小木船放在水沟里，旁边放着母亲缝的大红布娃娃。",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "老师让我写大字，阿荣伯就去告诉说：‘小春肚子疼，已喝午茶睡觉了。’",
+        "original": "老师叫我写大字，阿荣伯(人名)便去说：‘小春(人名)肚子疼，喝了午茶已睡觉。’",
+        "version": 2,
+        "chunk_num": 4,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "我从书架中拿出了白香山(地名)的诗篇，跟着父亲的调子大声读书，父亲的身影在摇摆的豆油灯光中显现。",
+        "original": "我跟着父亲的调子大声读书从书架中拿出的白香山(地名)诗篇，父亲的身影在摇摆的豆油灯光中显现。",
+        "version": 2,
+        "chunk_num": 9,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "淅沥的雨声中，他的读书声越来越低，直至听不见，永远消失耳畔。",
+        "original": "在淅沥的雨声中，他读书的声音越来越低，直至我再也听不见，永远消失在耳畔。",
+        "version": 2,
+        "chunk_num": 9,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "我不明白为什么，雨中总让我觉得像是到了另一个世界，远离了这个混乱的世界。",
+        "original": "我不明白为什么，雨中总让我觉得像是到了另一个世界，远离了这个混乱的世界。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "老师让我练大字，阿荣伯说小春肚子疼，已经喝午茶睡觉了。",
+        "original": "老师让我练大字，阿荣伯(人名)就去说：‘小春(人名)肚子疼，已经喝午茶睡觉了。’",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "院子里花草经雨后更绿了。父亲用烟斗指给我看，那是丁香，一棵很高大的红花。",
+        "original": "院子里花草经雨后更绿了，父亲用烟斗指给我那是丁香，那是一棵很高大的红花。",
+        "version": 3,
+        "chunk_num": 4,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "这工作很有趣。我希望天不下雨，这样谷里的绿斑就会多，我就能每天在谷里挑绿斑而不必读书。",
+        "original": "这工作挺有趣的，我希望天一直不下雨，这样绿斑会多，我就能每天在谷里挑绿斑，不用读书。",
+        "version": 3,
+        "chunk_num": 5,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "下雨时体育课在健身房打球，不用换运动服。我不喜欢那些像灯笼的黑运动裤。",
+        "original": "下雨时，体育课就在健身房打球，不用换运动服，我尤其不喜欢那些像灯笼的黑运动裤。",
+        "version": 3,
+        "chunk_num": 6,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "下雨天，我特别想她。小时候，雨天让我有更多时间陪她，让我觉得更接近妈妈。",
+        "original": "下雨天，我特别想她，小时候只有在雨天，我才有更多时间陪她，雨让我觉得更接近妈妈。",
+        "version": 3,
+        "chunk_num": 6,
+        "type": "HighSchool"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "他的病情加重，雨声中，读书声越来越微弱，直至消失耳畔。",
+        "original": "他的病情逐渐加重，淅沥的雨声中，他的读书声越来越微弱，直至听不见，永远消失耳畔。",
+        "version": 3,
+        "chunk_num": 7,
+        "type": "HighSchool"
+    }
+]

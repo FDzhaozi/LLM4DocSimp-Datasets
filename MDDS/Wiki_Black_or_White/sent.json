@@ -1,0 +1,204 @@
+[
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "《危险之旅》专辑中的歌曲《Black or White》（直译为黑或白或黑与白），由已故流行音乐之王麦可·杰克森创作，于1991年11月11日发布。",
+        "original": "Black or White（直译黑或白或是黑还是白或黑与白），是已故流行音乐之王麦可(人名)·杰克森(人名)的专辑《危险之旅》中的一首歌曲，发表于1991年11月11日。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "原版录影长11分钟以上，耗资400万美元。1991年11月14日，在MTV、VH1、BET和ABC等频道播出，成为其观看次数最多的音乐电视。",
+        "original": "原版的录影长度超过11分钟，花费超过400万美元，1991年11月14日在MTV(机构名)、VH1、BET和ABC等各大频道播放，成为了他历史上观看次数最多的音乐电视作品。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "讲述了一个童星麦考利·卡尔金扮演的小杰克森及其父亲乔治·温德的故事。卡尔金决定把大音箱搬到客厅，并把音量调到最大。结果，巨大的音波将他的父亲从屋顶冲出，飞到空中，这个场景类似早期音乐电视Twisted Sister的手法。",
+        "original": "录影中讲述了一个童星(儿童电影明星)麦考利·卡尔金(人名)(人名)扮演的小杰克森迷和他的父亲（乔治·温德(人名)饰）的故事，他的父亲让他把音乐声调低，但卡尔金(人名)决定把大音箱搬进客厅并把音量开到最大，结果巨大的音波把他的父亲冲出屋顶飞到空中，这个场景有点像早期的音乐电视Twisted Sister中的手法。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "他的父亲在中部非洲落地，随后「Black Or White」的音乐响起。麦可开始了全球旅行，穿越不同国家和文化。",
+        "original": "他的父亲最后在中部非洲(地名)落地，随后「Black Or White」的音乐响起，麦可(人名)开始了他的全球旅行，从一个国家到另一个国家，从一种文化到另一种文化。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "「Black or White」音乐视频完整版在歌曲结束后继续了4分钟。在这段时间里，麦可展示了他有名的动作：砸碎写有「KKK RULES」的商店玻璃，并用铁棒砸坏了一辆有种族歧视喷涂的汽车。",
+        "original": "完整版的「Black or White」音乐视频在歌曲结束后还继续了4分钟，在这段时间里，麦可(人名)展示了他的「有名」动作，砸碎了写有「KKK RULES」的商店玻璃，还用铁棒砸坏了一辆有种族歧视喷涂的汽车。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "MTV和其他电视台删减了最后4分钟。麦可向被冒犯的观众道歉。",
+        "original": "MTV(机构名)和其他电视台不得不剪掉了最后4分钟，麦可(人名)也向被冒犯的观众道歉。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "在美国MTV2台，只有在凌晨1点到4点播放「最受争议音乐录影带」节目时，才能看到最后的4分钟。",
+        "original": "现在，在美国(地名)MTV(机构名)2台(机构名)，只有在凌晨1点到4点播放「最受争议音乐录影带」节目时才能看到这最后4分钟。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "组合",
+            "调整语序"
+        ],
+        "simplified_text": "“Black or White”因多次在“Dangerous”及“HIStory”巡演中演唱，已成为众多歌迷喜爱的曲目之一。",
+        "original": "“Black or White”是“Dangerous”及“HIStory”巡演的必唱曲目，多次现场演唱，因此成为众多歌迷的喜爱之一。",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "该曲在‘Dangerous’巡演初期部分真唱，因MJ喉咙问题后改为对口型演唱，此方式沿用至‘HIStory’巡演。",
+        "original": "该曲最初在“Dangerous”巡演初期部分真唱，但后来因为MJ(人名)的喉咙问题改为对口型演唱，这种方式一直用到“HIStory”巡演。",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "《危险之行》专辑中的歌曲《Black or White》（直译为黑或白或黑与白），是已故流行音乐之王麦可·杰克森创作的，于1991年11月11日发布。",
+        "original": "《危险之行》专辑中的歌曲《Black or White》（直译为黑或白或黑与白），由已故流行音乐之王麦可(人名)·杰克森(人名)创作，1991年11月11日发布。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "巨大的音波将他的父亲撞出屋顶，飞向空中。这一幕与早期音乐电视Twisted Sister的手法相似。",
+        "original": "结果，巨大的音波将他的父亲从屋顶撞出，飞到空中，这个场景类似早期音乐电视Twisted Sister的手法。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "麦可在这段时间里，展示了他有名的动作：砸碎写有‘KKK RULES’的商店玻璃，还用铁棒砸坏了一辆有种族歧视涂鸦的汽车。",
+        "original": "在这段时间里，麦可(人名)展示了他有名的动作：砸碎写有「KKK RULES」的商店玻璃，并用铁棒砸坏了一辆有种族歧视涂鸦的汽车。",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "只有在凌晨1点到4点，美国MTV2台播放「最受争议音乐录影带」节目时，才能看到最后4分钟的内容。",
+        "original": "在美国(地名)MTV(机构名)2台(机构名)，只有在凌晨1点到4点播放「最受争议音乐录影带」节目时，才能看到最后的4分钟。",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "该曲在「Dangerous」巡演初期部分真唱。因MJ喉咙问题，后来改为对口型表演，并一直沿用至「HIStory」巡演。",
+        "original": "该曲在「Dangerous」巡演初期部分真唱，因MJ(人名)喉咙问题后改为对口型表演，此方式沿用至「HIStory」巡演。",
+        "version": 2,
+        "chunk_num": 4,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "《危险之行》唱片中的歌曲《Black or White》（直译为黑或白，或黑与白），是由已故流行音乐之王麦可·杰克森创作的，并于1991年11月11日发布。",
+        "original": "《危险之行》唱片中的歌曲《Black or White》，直译为黑或白或黑与白，由已故流行音乐之王麦可(人名)·杰克森(人名)创作，并于1991年11月11日发布。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "这首歌的音乐视频可能是所有流行音乐唱片中最受欢迎的，播放次数最多。原版时长超过11分钟，耗资400万美元。",
+        "original": "这首歌的音乐视频在所有流行音乐唱片中可能是播放次数最多、最受欢迎的，原版超过11分钟，耗资(耗费资金)400万美元。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "卡尔金把大音箱移至客厅，并调至最大音量。声音太大，竟把他的父亲从屋顶撞出，飞向空中。",
+        "original": "卡尔金(人名)把大音箱移到客厅，并开到最大音量，巨大的声音把他的父亲撞出屋顶，飞向空中。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "麦可在短时间内展示了他的著名动作，砸碎了写有‘KKK RULES’的商店玻璃，并砸坏了一辆有种族歧视涂鸦的汽车。",
+        "original": "麦可(人名)在短时间内，展示了他有名的动作：砸碎写有‘KKK RULES’的商店玻璃，还用铁棒砸坏了一辆有种族歧视涂鸦的汽车。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "凌晨1点到4点，美国MTV 2台播放「最受争议音乐录影带」节目时，才能看到最后4分钟的内容。",
+        "original": "只有在凌晨1点到4点，美国(地名)MTV(机构名)2台(机构名)播放「最受争议音乐录影带」节目时，才能看到最后4分钟的内容。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "Wiki"
+    }
+]

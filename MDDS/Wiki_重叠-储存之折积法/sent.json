@@ -1,0 +1,217 @@
+[
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "重叠-储存法，又称Overlap-save method或Overlap-discard method，是一种区块卷积（block convolution），能够有效计算长信号与有限冲激响应滤波器的离散折积。",
+        "original": "重叠-储存法（Overlap-save method，Overlap-discard method）是一种区块卷积（block convolution，sectioned convolution），能有效计算一个很长信号和有限冲激响应滤波器的离散折积。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "与重叠-相加法不同，该方法输出区块不重叠，减少相加步骤。每次读取输入后，需存储重叠部分作下一区块开头，故称“重叠-储存法”。",
+        "original": "与重叠-相加法不同，这种方法计算的输出区块不重叠，减少了相加步骤，每次读取输入后需要存储重叠部分作为下一区块的开头，所以叫“重叠-储存法”。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "我们选择较短长度切割输出信号，因滤波器长度有限，某一区块信号仅由较长的输入区块决定。",
+        "original": "在概念上，我们选择一个较短长度来切割输出信号，因为滤波器长度有限，所以某一区块内的信号只由较长的输入区块决定。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "计算有影响的输入区块与滤波器系数的乘积，选取适当结果即得正确输出区块。",
+        "original": "我们只需计算有影响的输入区块和滤波器系数的乘积，再选择适当结果即可得到正确的输出区块。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "虽然一时看不出将 'x[n]' 延伸周期的好处，但 'formula_10' 和 'formula_11' 在 'formula_7' 部分相等。",
+        "original": "尽管一时看不出分割成区块的好处，但将 'x[n]' 延伸周期后，'formula_10' 和 'formula_11' 在 'formula_7' 部分相等。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "通过圆周折积计算和定理转换，每段运算量从 'O(N)' 降低到 'O(N log N)'，实现 'formula_13' 点快速傅立叶变换和 'formula_13' 次乘法，速度显著提升。",
+        "original": "用圆周折积计算后，根据圆周折积定理可以转换成三次 'formula_13' 点快速傅立叶变换和 'formula_13' 次乘法，使每段 'O(N)' 的运算量减少到 'O(N log N)'，速度大幅提升。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "当 'x[n]' 的长度 'N' 和 'h[n]' 的长度 'M' 差距很大，尤其是 'M' 小于 'N' 的对数时，直接折积（无需圆周折积和 FFT）会更加快速。",
+        "original": "当 'x[n]' 的长度 'N'' 和 'h[n]' 的长度 'M' 差距很大时（例如 'M' < log 'N''），直接折积（不经过圆周折积和 FFT）反而最快。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "当 'N'' 和 'M' 同级时，无需分割。只需用长度为 'N'' 的一个区块进行 FFT。",
+        "original": "当 'N'' 和 'M' 差不多在同一级别时，不用分割，只需要一个长度 'L' = 'N'' 的区块做 FFT。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "Overlap-save method，又称Overlap-discard method，是一种区块卷积。它能有效计算长信号与有限冲激响应滤波器的离散折积。",
+        "original": "Overlap-save method，也称为Overlap-discard method，是一种区块卷积，能有效计算长信号和有限冲激响应滤波器的离散折积。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "读取输入后，存储存款和储蓄的相同部分作为下一区块的起始，这方法叫做‘重叠-储存法’。",
+        "original": "每次读取输入后，需要存储(存款和储蓄)重叠部分作为下一区块的开头，因此称为“重叠-储存法”。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "输出信号采用较短长度切割，因滤波器长度有限，信号区块由较长输入区块决定。",
+        "original": "我们选择较短长度来切割输出信号，因为滤波器长度有限，某一区块信号仅由较长的输入区块决定。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "计算输入区块与滤波器系数的乘积，选取适当结果便得到正确的输出区块。",
+        "original": "计算有影响的输入区块与滤波器系数的乘积，选取适当结果即可得到正确的输出区块。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "虽然看不出将 'x[n]' 延伸周期的益处，但 'formula_10' 和 'formula_11' 在 'formula_7' 的部分是相等的。",
+        "original": "虽然一时看不出将 'x[n]' 延伸周期的好处，但 'formula_10' 和 'formula_11' 在 'formula_7' 部分相等。",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "通过圆形轨迹折积计算和定理转换，运算量从 'O(N)' 降低到 'O(N log N)'。这使得 'formula_13' 点快速傅立叶变换和 'formula_13' 次乘法的速度明显提升。",
+        "original": "通过圆形轨迹折积计算和定理转换，每段运算量从 'O(N)' 降低到 'O(N log N)'，实现 'formula_13' 点快速傅立叶变换和 'formula_13' 次乘法，速度非常明显提升。",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "当x[n]的长度N与h[n]的长度M差距较大，特别是M小于N的对数时，直接进行折积（无需圆形轨迹折积和FFT）会更快速。",
+        "original": "当 'x[n]' 的长度 'N' 和 'h[n]' 的长度 'M' 差距很大，尤其是 'M' 小于 'N' 的对数时，直接折积（无需圆形轨迹折积和 FFT）会更加快速。",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "读取输入后，将存款和储蓄相同的部分存储为下一区块的起始。这种方法叫做‘重叠-存储(存款和储蓄)法’。",
+        "original": "读取输入后，存储(存款和储蓄)相同的部分作为下一区块的起始，这种方法称为‘重叠-存储(存款和储蓄)法’。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "输出信号切割较短，因滤波器长度有限，信号区块长度由输入区块决定。",
+        "original": "输出信号使用较短长度切割，因为滤波器长度有限，信号区块由较长输入区块决定。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "虽然看不出延伸 'x[n]' 周期的好处，但 'formula_10' 和 'formula_11' 在 'formula_7' 的某些部分是相等的。",
+        "original": "虽然看不出将 'x[n]' 延伸周期的益处，但 'formula_10' 和 'formula_11' 在 'formula_7' 的部分是相等的。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "通过圆周卷积和定理转换，运算量从'O(N)'降低到'O(N log N)'，从而显著提升了'formula_13'点快速傅立叶变换和乘法运算的速度。",
+        "original": "通过圆周卷积计算和定理转换，运算量从 'O(N)' 降低到 'O(N log N)'，这显著提升了 'formula_13' 点快速傅立叶变换和乘法运算的速度。",
+        "version": 3,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "当'x[n]'的长度N与'h[n]'的长度M差距较大，尤其是M小于N的对数时，直接折积（无需圆形轨迹折积和FFT）更快速。",
+        "original": "当 'x[n]' 的长度 N 与 'h[n]' 的长度 M 差距较大，尤其是 M 小于 N 的对数时，直接进行折积（无需圆形轨迹折积和 FFT）会更快速。",
+        "version": 3,
+        "chunk_num": 2,
+        "type": "Wiki"
+    }
+]

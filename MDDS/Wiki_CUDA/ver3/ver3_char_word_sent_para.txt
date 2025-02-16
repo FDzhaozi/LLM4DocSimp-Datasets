@@ -1,0 +1,24 @@
+## CUDA技术与GeForce GPU的应用
+
+NVIDIA推出的CUDA技术是通用计算GPU的正式名称，支持GeForce 8系列及更新的GPU以及较新的Quadro GPU计算。CUDA首次将GPU应用于C编译器的开发环境。然而，NVIDIA在推广时常常将编译器和架构混为一谈，造成混淆。CUDA可以与开放计算语言兼容，或使用自家的C编译器，其指令最终会被转换为PTX代码，由显卡核心计算。
+
+以GeForce 8800 GTX为例，CUDA技术可以将其核心处理器连接起来，作为线程处理单元处理数据密集型计算，并通过NVIDIA的C编译器和驱动程序充分利用这些功能。CUDA技术还允许GeForce 8800 GTX显卡作为流处理器进行计算，计算能力可达520GFlops，使用SLI配置可达1TFlops。
+
+程序员在使用CUDA技术时需要区分三种存储器，并应对复杂的线程层次，这增加了开发难度。未来，G100显卡将采用第二代CUDA架构，旨在提高效率并降低开发难度。
+
+## CUDA技术与NVIDIA的发展
+
+软件厂商利用CUDA技术开发了Adobe Premiere Pro插件，大幅提升H.264/MPEG-4 AVC编码速度。NVIDIA通过收购AGEIA获得PhysX技术，结合CUDA使显卡具备物理加速功能。GeForce 8系列显卡均支持CUDA。NVIDIA举办编程比赛以推广CUDA，并关注微软在Windows操作系统中的支持。CUDA 2.0和CUDA 3.0支持Fermi架构及以后版本。CUDA允许程序开发人员直接访问GPU资源，实现图形处理和通用处理，即GPGPU。与CPU相比，GPU擅长并行处理大量任务。
+
+开发者可利用CUDA加速库、OpenACC等指令和C、C++、Fortran等工业标准语言扩展CUDA平台应用。C/C++开发者使用CUDA C/C++或NVCC编译器，Fortran开发者使用CUDA Fortran或PGI公司的CUDA Fortran编译器。CUDA平台也支持OpenCL、DirectCompute和C++AMP等计算接口。Python、Perl、Java、Ruby、Lua、Haskell、MATLAB、IDL及Mathematica等语言也有原生支持。
+
+## CUDA技术概述
+
+GPU在电脑游戏行业不仅用于图形渲染，还用于物理计算。CUDA技术自2007年发布以来，支持Windows、Linux和苹果操作系统，与大多数标准操作系统兼容。G8x系列及以后的NVIDIA图形处理单元均支持CUDA。CUDA技术具有二进制兼容性，未来可在所有Nvidia显卡上直接运行。
+
+CUDA技术配合软件如MediaCoder，可加速高清视频编码和视频解码。此外，使用CUDA可以在显示核心上实现软件解码，解决兼容性问题。
+
+## 光线追踪技术
+
+NVIDIA的Optix光线追踪引擎利用CUDA技术通过GPU实现光线追踪。G80及以上架构的显卡和计算模块均支持CUDA技术。以下是一个使用C++和Python改写的C++代码示例，展示了从GPU图像数组获取纹理映射的过程。PyCUDA库提供了Python语言的相关信息，而pycublas库用于处理更多的Python矩阵乘法问题。
+

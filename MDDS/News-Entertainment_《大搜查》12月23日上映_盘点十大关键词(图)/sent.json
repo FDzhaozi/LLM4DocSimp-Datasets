@@ -1,0 +1,303 @@
+[
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "《大搜查》与《非诚勿扰》有五天间隔，与《赤壁》（下）有十六天，因此有足够的空间腾挪。",
+        "original": "但与《非诚勿扰》有五天的缓冲，与《赤壁》(下)又有十六天的间隔，已经让《大搜查》有足够的腾挪空间。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "院线经理和影评人看过《大搜查》后，一致看好其票房前景，为迎合各类影迷的需求。",
+        "original": "而看过这部影片的院线经理和影评人对《大搜查》的票房前景一致看好，为迎合各类影迷的需求。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "看《大搜查》有许多理由，但唯一不需要的理由是郑秀文的复出。",
+        "original": "看《大搜查》可以找的理由有很多，不需要找的理由只有一个，就是郑秀文(听歌)的复出。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "郑秀文的歌迷看《大搜查》不需理由。看到SAMMI振作精神再度出发，他们就充满期待。",
+        "original": "对于郑秀文的歌迷来说，看《大搜查》完全不需要理由，能看到SAMMI振作精神，再度出发，就已经让他们跃跃欲试，充满期待。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "在这些电影中，郑秀文无论戏里戏外，都真正符合3S国际认证体系的剩女。",
+        "original": "在这些电影中，可能只有郑秀文(人名)，无论是戏里戏外，都是真正的符合3S国际认证体系的剩女。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "郑秀文在出演的影片中，扮演了一个与男友相恋十年却嫁不出去、外表坚强内心脆弱的角色。她不知道融入了多少自己的真实感受。",
+        "original": "在出演的影片中，这个和男友相恋十年却嫁不出去，外表坚强内心脆弱的角色，郑秀文(人名)不知道融入了多少自己的真实感受。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "提前看过影片的观众都认为，郑秀文将剩女形象演绎得非常深刻。可以肯定。",
+        "original": "可以肯定的是，提前看过影片的观众都认为，郑秀文(人名)将这个剩女形象演绎得非常深刻。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "司徒幕莲有望成为今年贺岁档最令人印象深刻的剩女形象，既有喜感，又足够真实。",
+        "original": "既有喜感，又足够真实，司徒幕莲(人名)有望成为今年贺岁档最令人印象深刻的剩女形象。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "《大搜查》在搜索引擎排名第三。麦庄等人首次独立编导，改变风格后，不逊色于《无间道》。",
+        "original": "《大搜查》在搜索引擎排名第三，麦(人名)庄(人名)(人名)首次独立编导(编剧和导演)，改变风格，《大搜查》不让《无间道》相形见绌。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "陈奕迅一向擅长轻松搞笑，他从未想过能扮演小生和冷酷的大佬角色。",
+        "original": "一向擅长轻松搞笑的陈奕迅(人名)从未想过能扮演小生，还是冷酷的大佬角色。",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序",
+            "拆分"
+        ],
+        "simplified_text": "麦兆辉和庄文强两位导演独具慧眼，认为陈奕迅很适合演小生。从某个角度看，他非常像张国荣的经典角色。",
+        "original": "但麦(人名)兆辉(人名)、庄(人名)文强(人名)两位导演独具慧眼，认为陈奕迅(人名)很适合演小生，从某个角度看非常像张国荣(人名)的经典角色。",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "这次是《大搜查》中陈奕迅和郑秀文首次合作。他们在电影中已婚的陈奕迅与想要嫁人的郑秀文自然会有暧昧情感。",
+        "original": "这次《大搜查》是他们首次合作，电影里已婚的陈奕迅(人名)和想要嫁人的郑秀文(人名)自然会有点暧昧的情感。",
+        "version": 1,
+        "chunk_num": 5,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "在《大搜查》中，杜汶泽本色出演，查舞男案时，他让男犯站左边，女犯站右边，人妖站中间。",
+        "original": "《大搜查》中，杜汶泽(人名)继续他的本色表演：查舞男案时，让男犯站左边、女犯站右边、人妖站中间。",
+        "version": 1,
+        "chunk_num": 5,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "《大搜查》搜索引擎排名内地男星第七。张国立与两位老友暗中较量，试探港片市场。",
+        "original": "《大搜查》搜索引擎第七位，内地(地名)男星试探港片(香港影片)市场，张国立(人名)与两位老友暗中较量。",
+        "version": 1,
+        "chunk_num": 6,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "《大搜查》12月23日全国上映。新浪娱乐报道了该电影的十大关键词。",
+        "original": "《大搜查》12月23日全国公映(公开放映)，盘点十大关键词(图)新浪娱乐报道，电影《大搜查》将于12月23日全国上映。",
+        "version": 2,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "郑秀文在影片中饰演的角色，与男友恋爱十年却未能嫁出。这个角色外表坚强，内心却很脆弱。",
+        "original": "郑秀文(人名)在参演的影片中，饰演了一个与男友恋爱十年却嫁不出去、外表坚强内心脆弱的角色。",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "司徒幕莲有望成为今年贺岁档最深刻的剩女形象，她既有喜感又真实。",
+        "original": "可以肯定，司徒幕莲(人名)有望成为今年贺岁档最令人印象深刻的剩女形象，既有喜感，又足够真实。",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "麦庄等人首次独立编导，改变风格后，其作品不输给《无间道》。",
+        "original": "麦(人名)庄(人名)(人名)等人首次独立编导(编剧和导演)，改变风格后，不输《无间道(机构名)》。",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "陈奕迅擅长轻松搞笑，没想到能演小生和冷酷大佬。",
+        "original": "陈奕迅(人名)一向擅长轻松搞笑，他从未想过能饰演小生和冷酷的大佬角色。",
+        "version": 2,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "《大搜查》邀请了内地明星张国立和董勇，希望他们能提升内地票房。",
+        "original": "《大搜查》请来了两位内地(地名)(地名)明星张国立(人名)(人名)和董勇(人名)(人名)，希望他们能增加内地(地名)(地名)票房。",
+        "version": 2,
+        "chunk_num": 6,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "《大搜查》面临《赤壁》和《非诚勿扰》的挑战与竞争，但因有充足时间调整，间隔合理，本身看点多，吸引了观众关注。",
+        "original": "尽管面临《赤壁(地名)》的挑战和《非诚勿扰》的竞争，但《大搜查(机构名)》因为有充足时间调整，凭借与这两部电影的间隔时间，电影本身看点丰富，吸引了观众的关注。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "有许多理由可以看《大搜查(机构名)》，但最不需要的理由是郑秀文(人名)的复出。",
+        "original": "看《大搜查(机构名)》有许多理由，但最不需要的理由是郑秀文(人名)的复出。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "许多电影聚焦都市剩女，郑秀文在电影《司徒幕莲》中饰演的角色，无论是戏内还是戏外，都符合3S国际认证体系的剩女形象。",
+        "original": "许多电影关注都市剩女，其中郑秀文(人名)在电影《司徒幕莲(人名)》中扮演的角色，无论戏里戏外都符合3S国际认证体系的剩女形象。",
+        "version": 3,
+        "chunk_num": 2,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "组合"
+        ],
+        "simplified_text": "麦兆辉和庄文强有眼光，认为陈奕迅很适合演小生，他的形象甚至有点像张国荣的经典形象。",
+        "original": "麦兆辉(人名)和庄文强(人名)有眼光，认为陈奕迅(人名)很适合演小生，他甚至有点像张国荣(人名)的经典形象。",
+        "version": 3,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "在《大搜查》中，他们首次合作，分别饰演已婚夫妇。陈奕迅扮演的是想要嫁人的角色。",
+        "original": "这次在《大搜查》中，他们首次合作，分别饰演已婚夫妇，其中陈奕迅(人名)扮演想要嫁人的角色。",
+        "version": 3,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "调整语序"
+        ],
+        "simplified_text": "这对夫妇的感情是互相支持与竞争，而非爱情，尽管戏中有微妙的情感。",
+        "original": "尽管戏中有微妙的情感，但这对夫妇的感情是互相支持并互相竞争，而非爱情。",
+        "version": 3,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "陈奕迅用搞怪方式让郑秀文放松，这是她选他的原因之一。",
+        "original": "戏外，陈奕迅(人名)也用搞怪的方式让郑秀文(人名)放松，这也是她选择陈奕迅(人名)的原因之一。",
+        "version": 3,
+        "chunk_num": 4,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "杜汶泽在电影中自然出演。调查舞男案时，他巧妙安排角色站位；而调查绑架案时，则用老同学的方式吸引徐子珊。",
+        "original": "杜汶泽(人名)在电影中自然出演，调查舞男案时，他巧妙安排角色站位，调查绑架案时，他又用老同学的方式吸引徐子珊(人名)。",
+        "version": 3,
+        "chunk_num": 5,
+        "type": "News-Entertainment"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "《大搜查》在搜索引擎上排名第六，由杜汶泽出演。杜汶泽看似笨拙，实则智慧。",
+        "original": "《大搜查(机构名)》在搜索引擎上排名第六，由杜汶泽(人名)自然出演，他虽然看起来有些笨拙，但充满智慧。",
+        "version": 3,
+        "chunk_num": 5,
+        "type": "News-Entertainment"
+    }
+]

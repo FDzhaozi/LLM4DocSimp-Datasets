@@ -1,0 +1,234 @@
+[
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "NVIDIA推出的统一计算架构（CUDA）技术，是该公司对通用计算GPU的正式名称。",
+        "original": "统一计算架构(框架结构)（CUDA）是由NVIDIA(机构名)推出的一种整合技术，是该公司对通用计算GPU的正式名称。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "该产品支持GeForce 8系列及更新的GPU和较新的Quadro GPU进行计算。它还首次允许将GPU用作C编译器的开发环境。",
+        "original": "它允许用户使用GeForce 8及后续的GPU和较新的Quadro GPU进行计算，并首次允许将GPU作为C编译器的开发环境。",
+        "version": 1,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "程序员在使用CUDA技术时需区分三种存储器，并应对复杂的线程层次。编译器难以自动完成任务，这增加了开发难度。",
+        "original": "但是，程序员在使用CUDA技术时需要区分三种不同的存储器，并面对复杂的线程层次，编译器也无法自动完成多数任务，这些问题都增加了开发难度。",
+        "version": 1,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "这些插件能利用显卡加速H.264/MPEG-4 AVC编码速度，速度约是只用CPU的7倍。",
+        "original": "使用这些插件，用户可以利用显卡来加速H.264/MPEG-4 AVC的编码速度，其速度大约是只用CPU加速的7倍。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "组合"
+        ],
+        "simplified_text": "NVIDIA收购AGEIA后获得PhysX物理加速技术，该技术与CUDA结合使显卡具备物理加速芯片功能。",
+        "original": "NVIDIA(机构名)在收购AGEIA(机构名)后获得了PhysX物理加速技术，与CUDA(机构名)结合后，显卡可以模拟出物理加速芯片的功能。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "目前，所有GeForce 8系列显卡都支持CUDA。NVIDIA将不再推出物理加速卡，显卡将替代这些产品。",
+        "original": "目前，所有GeForce 8系列显卡都支持CUDA(机构名)，NVIDIA(机构名)不会再推出物理加速卡，显卡将替代这些产品。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "2008年8月，NVIDIA发布了CUDA 2.0；2010年3月22日，发布了CUDA 3.0。这两个版本只支持Fermi架构及以后的版本。",
+        "original": "2008年8月，NVIDIA(机构名)发布了CUDA(机构名) 2.0，2010年3月22日发布了CUDA(机构名) 3.0，只支持Fermi架构(框架结构)及以后的版本。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "CUDA由NVIDIA提出并实现。它允许程序开发人员直接访问GPU的虚拟指令集和并行计算资源。",
+        "original": "CUDA(机构名)是由NVIDIA(机构名)提出并实现的，允许程序开发人员直接访问GPU的虚拟指令集和并行计算资源。",
+        "version": 1,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "软件开发者可以通过CUDA加速库、编译器指令（如OpenACC）和C、C++、Fortran等工业标准编程语言扩展CUDA平台的使用。",
+        "original": "软件开发者可以通过CUDA加速库、编译(编写翻译)器指令（如OpenACC）和工业标准的编程语言（如C、C++和Fortran）来扩展CUDA平台的使用。",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "组合"
+        ],
+        "simplified_text": "C/C++开发者用CUDA C/C++或NVIDIA的NVCC编译器，Fortran开发者用CUDA Fortran或PGI公司的CUDA Fortran编译器进行编译。",
+        "original": "C/C++开发者可以用CUDA C/C++进行编译(编写翻译)，使用NVIDIA基于LLVM的C/C++编译(编写翻译)器NVCC；Fortran开发者可以用CUDA Fortran和PGI公司(机构名)的CUDA Fortran编译(编写翻译)器进行编译(编写翻译)。",
+        "version": 1,
+        "chunk_num": 4,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "转换句式"
+        ],
+        "simplified_text": "Nvidia表示，基于G8x系列开发的程序具备二进制兼容性，将来能在所有Nvidia显卡上直接运行，无需修改。",
+        "original": "Nvidia表示：根据二进制兼容性，基于G8x系列开发的程序无需修改即可在未来所有的Nvidia显卡上运行。",
+        "version": 1,
+        "chunk_num": 5,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "组合",
+            "调整语序"
+        ],
+        "simplified_text": "CUDA技术配合MediaCoder等软件，能加速高清视频编码，这在GPU上进行传统通用计算时尤为显著。",
+        "original": "在GPU上进行传统通用计算时，CUDA(机构名)技术有几个优点：利用CUDA(机构名)技术，配合适当的软件（如MediaCoder、Freemake Video Converter），可以加速高清视频编码。",
+        "version": 1,
+        "chunk_num": 5,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "组合",
+            "调整语序"
+        ],
+        "simplified_text": "NVIDIA收购AGEIA后，获得了PhysX物理加速技术。这一技术与CUDA结合，使得显卡拥有了物理加速芯片的功能。",
+        "original": "NVIDIA(机构名)收购AGEIA(机构名)后获得PhysX物理加速技术，该技术与CUDA结合使显卡具备物理加速芯片功能。",
+        "version": 2,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "组合",
+            "调整语序"
+        ],
+        "simplified_text": "软件开发者可以通过CUDA加速库、OpenACC等编译器指令以及C、C++、Fortran等工业标准编程语言来扩展CUDA平台的使用。",
+        "original": "软件开发者可以通过CUDA加速库、编译(编写翻译)器指令（如OpenACC）和C、C++、Fortran等工业标准编程(编制程序)语言来扩展CUDA平台的使用。",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "C/C++开发者使用CUDA C/C++或NVIDIA的NVCC编译器，Fortran开发者使用CUDA Fortran或PGI公司的CUDA Fortran编译器进行编译。",
+        "original": "C/C++开发者用CUDA C/C++或NVIDIA的NVCC编译(编写翻译)器，Fortran开发者用CUDA Fortran或PGI公司(机构名)的CUDA Fortran编译(编写翻译)器进行编译(编写翻译)。",
+        "version": 2,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "Nvidia表示，G8x系列开发的程序具有二进制兼容性，未来将能在所有Nvidia显卡上直接运行，无需修改。",
+        "original": "Nvidia表示，基于G8x系列开发的程序具有二进制兼容性，将来能在所有Nvidia显卡上直接运行，无需修改。",
+        "version": 2,
+        "chunk_num": 4,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "以下是用C++从GPU图像数组获取纹理映射的示例，该例子是用Python语言改写的。",
+        "original": "以下是用C++从GPU的图像数组中获取纹理映射的示例：下面的例子是使用Python语言改写的。",
+        "version": 2,
+        "chunk_num": 5,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "该产品支持GeForce 8系列及更新的GPU以及较新的Quadro GPU计算。它还首次将GPU应用于C编译器的开发环境。",
+        "original": "该产品支持GeForce 8系列及更新的GPU和较新的Quadro GPU进行计算，并首次允许GPU用作C编译器的开发环境。",
+        "version": 3,
+        "chunk_num": 1,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分"
+        ],
+        "simplified_text": "一些软件厂商用CUDA技术开发了Adobe Premiere Pro的插件。这些插件能显著提高H.264/MPEG-4 AVC编码速度，速度比仅用CPU(人名)快7倍。",
+        "original": "一些软件厂商已使用CUDA技术开发了Adobe Premiere Pro的插件，这些插件能显著加速H.264/MPEG-4 AVC编码速度，速度可达只用CPU(人名)的7倍。",
+        "version": 3,
+        "chunk_num": 2,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "组合",
+            "调整语序"
+        ],
+        "simplified_text": "开发者可以利用CUDA加速库、OpenACC等编译器指令以及C、C++、Fortran等工业标准语言来拓展CUDA平台应用。",
+        "original": "软件开发者可以通过CUDA加速库、OpenACC等编译(编写翻译)器指令以及C、C++、Fortran(机构名)等工业标准编程(编制程序)语言来扩展CUDA平台的使用。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "组合",
+            "调整语序"
+        ],
+        "simplified_text": "例如，C/C++开发者使用CUDA C/C++或NVCC编译器，Fortran开发者使用CUDA Fortran或PGI公司的CUDA Fortran编译器进行编译。",
+        "original": "例如，C/C++开发者使用CUDA C/C++或NVIDIA(机构名)的NVCC编译(编写翻译)器，Fortran(机构名)开发者使用CUDA Fortran(机构名)或PGI公司(机构名)的CUDA Fortran(机构名)编译(编写翻译)器进行编译(编写翻译)。",
+        "version": 3,
+        "chunk_num": 3,
+        "type": "Wiki"
+    },
+    {
+        "simp_type": [
+            "拆分",
+            "调整语序"
+        ],
+        "simplified_text": "Nvidia宣布，G8x系列程序具有二进制兼容性，未来可在所有Nvidia显卡上直接运行，无需修改。",
+        "original": "Nvidia(机构名)宣布，G8x系列开发的程序具有二进制兼容性，未来将能在所有Nvidia(机构名)显卡上直接运行，无需修改。",
+        "version": 3,
+        "chunk_num": 4,
+        "type": "Wiki"
+    }
+]
